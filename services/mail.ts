@@ -5,7 +5,7 @@ export const sendVerificationEmail = async (email: string, token: string) => {
 
   const confirmLink = `http://localhost:3000/auth/new-verification?token=${token}`;
   const mailOptions = {
-    from: "Yending App <yendingapp@gmail.com>",
+    from: "Inventory-App <nmapi2022@gmail.com>",
     to: email,
     subject: "Confirm your email",
     html: `<p>Click <a href="${confirmLink}">here</a> to confirm your email.</p>`,
@@ -23,7 +23,7 @@ export const sendPasswordResetEmail = async (email: string, token: string) => {
   const transporter = await createTransporter();
   const resetLink = `http://localhost:3000/auth/new-password?token=${token}`;
   const mailOptions = {
-    from: "Yending App <yendingapp@gmail.com>",
+    from: "Inventory-App <nmapi2022@gmail.com>",
     to: email,
     subject: "Password Reset Request",
     html: `<p>Click <a href="${resetLink}">here</a> to reset your password.</p>`,
@@ -41,7 +41,7 @@ export const sendTwoFactorTokenEmail = async (email: string, token: string) => {
   const transporter = await createTransporter();
 
   const mailOptions = {
-    from: "Yending App <yendingapp@gmail.com>",
+    from: "Inventory-App <nmapi2022@gmail.com>",
     to: email,
     subject: "Your 2FA Code",
     html: `<p>Your 2FA code is: <strong>${token}</strong></p>`,

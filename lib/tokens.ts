@@ -5,6 +5,7 @@ import { v4 as uuidv4 } from "uuid";
 import { getPasswordResetTokenByEmail } from "@/data/password-reset-token";
 import { getTwoFactorTokenByEmail } from "@/data/two-factor-token";
 
+// TOKEN PARA EL 2FA 
 export const generateTwoFactorToken = async (email: string) => {
     const token = crypto.randomInt(100_000, 1_000_000).toString();
     // Seteo el tiempo que va a tener este token
@@ -58,6 +59,7 @@ export const generateVerificationToken = async (email: string) => {
     return verificationToken;
 }
 
+// TOKEN PARA REINICIAR PASSWORD
 export const generatePasswordResetToken = async (email: string) => {
     const token = uuidv4();
     const expires = new Date(new Date().getTime() + 3600 * 1000);

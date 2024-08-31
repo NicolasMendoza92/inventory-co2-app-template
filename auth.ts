@@ -30,20 +30,20 @@ export const {
         }
 
         // Add logic to 2FA
-        // if (existingUser.isTwoFactorEnabled) {
-        //   const twoFactorConfirmation = await getTwoFactorConfirmationByUserId(existingUser.id);
+        if (existingUser.isTwoFactorEnabled) {
+          const twoFactorConfirmation = await getTwoFactorConfirmationByUserId(existingUser.id);
 
-        //   if (!twoFactorConfirmation) {
-        //     console.error("Two-factor authentication not confirmed.");
-        //     return false;
-        //   }
-        //   // delete 2fa for next sign in
-        //   await prisma.twoFactorConfirmation.delete({
-        //     where: { id: twoFactorConfirmation.id }
-        //   })
-        // }
+          if (!twoFactorConfirmation) {
+            console.error("Two-factor authentication not confirmed.");
+            return false;
+          }
+          // delete 2fa for next sign in
+          await db.twoFactorConfirmation.delete({
+            where: { id: twoFactorConfirmation.id }
+          })
+        }
 
-        return true
+        return true;
 
       } catch (error) {
         console.error("Error during signIn callback:", error);
