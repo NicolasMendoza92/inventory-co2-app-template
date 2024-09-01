@@ -23,7 +23,7 @@ export default function Home() {
         <p>Sing up to manage the inventory</p>
         <div>
           <LoginButton>
-            <Button variant="secondary" size="lg">
+            <Button variant="outline" size="lg">
               {" "}
               Sign In
             </Button>
