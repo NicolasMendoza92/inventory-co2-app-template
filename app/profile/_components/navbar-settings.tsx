@@ -11,14 +11,14 @@ export const NavbarSettings = () => {
   return (
     <nav className="bg-secondary flex justify-between items-center p-4 rounded-xl w-[600px] shadow-md">
       <div className="flex gap-x-2">
-      <Button asChild variant={pathname === "/client" ? "default" : "outline"}>
-          <Link href="/client">User</Link>
+      <Button asChild variant={pathname === "/profile/client" ? "default" : "outline"}>
+          <Link href="/profile/client">User</Link>
         </Button>
-      <Button asChild variant={pathname === "/settings" ? "default" : "outline"}>
-          <Link href="/settings">Settings</Link>
+      <Button asChild variant={pathname === "/profile/settings" ? "default" : "outline"}>
+          <Link href="/profile/settings">Settings</Link>
         </Button>
-        <Button asChild variant={pathname === "/admin" ? "default" : "outline"}>
-          <Link href="/admin">Admin</Link>
+        <Button asChild variant={pathname === "/profile/admin" ? "default" : "outline"}>
+          <Link href="/profile/admin">Admin</Link>
         </Button>
       </div>
       <UserButton/>
