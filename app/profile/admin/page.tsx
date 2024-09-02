@@ -56,6 +56,12 @@ const AdminPage = () => {
           Enable editor mode
         </Button>
       </div>
+      <div className="flex flex-row items-center justify-between rounded-lg border p-3 shadow-md">
+        <p className="text-sm font-medium"> Import templates  </p>
+        <Button onClick={onServerActionClick}>
+          Add new tempalte
+        </Button>
+      </div>
       </CardContent>
       
     </Card>

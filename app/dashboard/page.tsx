@@ -6,6 +6,7 @@ import Link from "next/link";
 
 const DashboardPage = () => {
   const user = useCurrentUser();
+
   return (
     <div>
       DashboardPage

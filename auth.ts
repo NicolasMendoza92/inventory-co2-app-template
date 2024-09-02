@@ -12,6 +12,7 @@ export const {
   signIn,
   signOut,
   auth,
+  unstable_update: update,
 } = NextAuth({
   pages:{
     signIn: "/auth/login",

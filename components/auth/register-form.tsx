@@ -20,8 +20,10 @@ import { FormError } from "../form-error";
 import { FormSuccess } from "../form-success";
 import { useState, useTransition } from "react";
 import { register } from "@/actions/register";
+import { useCurrentRole } from "@/hooks/use-current-role";
 
 export const RegisterForm = () => {
+  const userRole = useCurrentRole();
   const [isPending, startTransition] = useTransition();
   const [error, setError] = useState<string | undefined>("");
   const [success, setSuccess] = useState<string | undefined>("");
@@ -34,9 +36,8 @@ export const RegisterForm = () => {
   });
 
   const onSubmit = (values: z.infer<typeof RegisterSchema>) => {
-
-    setError("")
-    setSuccess("")
+    setError("");
+    setSuccess("");
 
     // ver si usamos otro back o directamente en next
     startTransition(() => {
@@ -44,7 +45,7 @@ export const RegisterForm = () => {
         setError(data.error);
         setSuccess(data.success);
       });
-      form.reset()
+      form.reset();
     });
   };
 
@@ -53,12 +54,11 @@ export const RegisterForm = () => {
       headerLabel="Create new account"
       backButtonLabel="Already have an account?"
       backButtonHref="/auth/login"
-      showSocial
     >
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
           <div className="space-y-4">
-          <FormField
+            <FormField
               control={form.control}
               name="name"
               render={({ field }) => (
@@ -112,7 +112,7 @@ export const RegisterForm = () => {
               )}
             />
           </div>
-          <FormError message={error}/>
+          <FormError message={error} />
           <FormSuccess message={success} />
           <Button type="submit" className="w-full" disabled={isPending}>
             Create new account
