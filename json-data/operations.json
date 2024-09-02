@@ -1,0 +1,3898 @@
+[{
+  "_id": {
+    "$oid": "656da6ea88f61042ee9b74ef"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "YLEM (Biogas Technology Limited)",
+  "proyecto": {
+    "$oid": "656da69f88f61042ee9b74e8"
+  },
+  "projectData": {
+    "idProject": "1307",
+    "standardOp": "CDM",
+    "nameProject": "Durango – EcoMethane Landfill Gas to Energy Project",
+    "vintageOp": "2012",
+    "countryProject": "Mexico",
+    "techProject": "Landfill gas"
+  },
+  "precio": 2.2,
+  "quantity": 3961,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "detalles": "Los tiene YLEM. Entrega 2 semans despues de cada venta",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-04T10:16:10.122Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T15:00:14.599Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656da7f03f29281ccdb8ffa3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "YLEM (Biogas Technology Limited)",
+  "proyecto": {
+    "$oid": "656da7a688f61042ee9b74f9"
+  },
+  "projectData": {
+    "idProject": "425",
+    "standardOp": "CDM",
+    "nameProject": "Aguascalientes – EcoMethane Landfill Gas to Energy Project",
+    "vintageOp": "2012",
+    "countryProject": "Mexico",
+    "techProject": "Landfill gas"
+  },
+  "precio": 2.5,
+  "quantity": 30513,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "detalles": "En manos de YLEM. Entrega dentro de las 2 semanas desp de avisar",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-04T10:20:32.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:29:05.501Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656da8813f29281ccdb8ffad"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "YLEM (Biogas Technology Limited)",
+  "proyecto": {
+    "$oid": "656da84b88f61042ee9b7501"
+  },
+  "projectData": {
+    "idProject": "425",
+    "standardOp": "CDM",
+    "nameProject": "Aguascalientes – EcoMethane Landfill Gas to Energy Project",
+    "vintageOp": "2013-2016",
+    "countryProject": "Mexico",
+    "techProject": "Landfill gas"
+  },
+  "precio": 2.6,
+  "quantity": 58408,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "detalles": "En manos de YLEM. Entrega 2 semanas desp de cada venta",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-04T10:22:57.181Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:28:52.319Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656ee00232fd72cb08f90742"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "KALLPA GENERACIÓN S.A",
+  "proyecto": {
+    "$oid": "656edfd113b9c426bd9d926d"
+  },
+  "projectData": {
+    "idProject": "7609",
+    "standardOp": "CDM",
+    "nameProject": "Conversion of Open Cycle Gas Turbines to Combined Cycle at Kallpa Thermoelectric Power Plant",
+    "vintageOp": "2013",
+    "countryProject": "Peru",
+    "techProject": "Conversion of Open Cycle"
+  },
+  "precio": 2.05,
+  "quantity": 35000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "detalles": "En manos del PO",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T08:32:02.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T15:01:43.611Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656ee10913b9c426bd9d927c"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Aitherco2 A S.P.A.",
+  "proyecto": {
+    "$oid": "656ee07e32fd72cb08f90747"
+  },
+  "projectData": {
+    "idProject": "4097",
+    "standardOp": "CDM",
+    "nameProject": "Hunan Longhui Yuanmushan Hydropower Project",
+    "vintageOp": "2013-2019",
+    "countryProject": "China",
+    "techProject": "Small Hydro"
+  },
+  "precio": 2.63,
+  "quantity": 175000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "detalles": "En manos de Aither",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T08:36:25.061Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T15:01:59.205Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656ee1c732fd72cb08f90751"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Veolia Aseo Buga S.A E.S.P",
+  "proyecto": {
+    "$oid": "656ee18013b9c426bd9d9283"
+  },
+  "projectData": {
+    "idProject": "50",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Antanas landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia",
+    "techProject": "Landfill gas"
+  },
+  "precio": 3.4,
+  "quantity": 7522,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T08:39:35.213Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T08:39:35.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656ee4d445f587215f1f2e41"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Terra Commodities Broker",
+  "proyecto": {
+    "$oid": "656ee4a913b9c426bd9d9296"
+  },
+  "projectData": {
+    "idProject": "106",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Aire de Vida “FIIVO JAAGAVA KOMUYA JAG+Y+”Monochoa REDD+",
+    "vintageOp": "2019",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 4.63,
+  "quantity": 16,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T08:52:36.884Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T08:52:36.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656ee60545f587215f1f2e4e"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Matrix Renewable Colombia S.A.S",
+  "proyecto": {
+    "$oid": "656ee5c045f587215f1f2e46"
+  },
+  "projectData": {
+    "idProject": "109",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Los Llanos",
+    "vintageOp": "2020-2021",
+    "countryProject": "Colombia",
+    "techProject": "Solar"
+  },
+  "precio": 2.93,
+  "quantity": 1116,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-03-30T00:00:00Z"
+  },
+  "detalles": "1116 entre vintage 2020 y 2021. Se crea ahora otro producto para separar",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T08:57:41.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T11:48:39.915Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656ee6de13b9c426bd9d92a7"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Consorcio Santa Marta S.A.",
+  "proyecto": {
+    "$oid": "656ee6a445f587215f1f2e54"
+  },
+  "projectData": {
+    "idProject": "3976",
+    "standardOp": "GS",
+    "nameProject": "SANTA MARTA LANDFILL GAS (LFG) CAPTURE FOR ELECTRICITY GENERATION PROJECT",
+    "vintageOp": "2022",
+    "countryProject": "Chile",
+    "techProject": "Landfill gas"
+  },
+  "precio": 0.7,
+  "quantity": 12453,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T09:01:18.458Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T09:28:52.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656f0991cd19802f110c290a"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "CBL Plataforma",
+  "proyecto": {
+    "$oid": "656f0965cd19802f110c2901"
+  },
+  "projectData": {
+    "idProject": "707",
+    "standardOp": "GS",
+    "nameProject": "LANDFILL GAS EXTRACTION AND ELECTRICITY GENERATION PROJECT - ISTANBUL, TURKEY",
+    "vintageOp": "2013",
+    "countryProject": "Turkey",
+    "techProject": "Landfill gas"
+  },
+  "precio": 6,
+  "quantity": 5,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T11:29:21.832Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T11:29:21.832Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656f0cf1385c9700f55329f5"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Brascarbon Consultoria Projetos E Repres entação S A",
+  "proyecto": {
+    "$oid": "656f0ca86f99943eeef0cd03"
+  },
+  "projectData": {
+    "idProject": "3056",
+    "standardOp": "VCS",
+    "nameProject": "BRASCARBON METHANE RECOVERY PROJECT BCA-BRA-17",
+    "vintageOp": "2022",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 3.4,
+  "quantity": 44,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T11:43:45.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T11:43:45.791Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656f0e7284825025d1f50f64"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "NE Climate A/S",
+  "proyecto": {
+    "$oid": "656f0e3f84825025d1f50f5b"
+  },
+  "projectData": {
+    "idProject": "2930",
+    "standardOp": "VCS",
+    "nameProject": "Reducing Gas Leakages within the Titas Gas Distribution Network in Bangladesh",
+    "vintageOp": "2021",
+    "countryProject": "Bangladesh",
+    "techProject": "Energy Efficiency - Industrial"
+  },
+  "precio": 4.05,
+  "quantity": 463632,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "detalles": "En manos del PO",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T11:50:10.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T15:02:19.715Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656f0fee495672b674f4bc3a"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Carbon Climate Protection GmbH (Carbon Austria)",
+  "proyecto": {
+    "$oid": "656da54e88f61042ee9b74dc"
+  },
+  "projectData": {
+    "idProject": "490",
+    "standardOp": "CDM",
+    "nameProject": "Catalytic N2O destruction project in the tail gas of the Nitric Acid Plant of Abu Qir Fertilizer Co.",
+    "vintageOp": "2020",
+    "countryProject": "Egypt",
+    "techProject": "N20 destrutction"
+  },
+  "precio": 2.05,
+  "quantity": 77964,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T11:56:30.242Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T11:56:30.242Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656f1f62e0dc4afdf26df4e3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Matrix Renewable S.L.U",
+  "proyecto": {
+    "$oid": "656f1f3ce0dc4afdf26df4da"
+  },
+  "projectData": {
+    "idProject": "IRECs",
+    "standardOp": "I-RECs",
+    "nameProject": "Quillay Solar - QUILSOLA003",
+    "vintageOp": "2022",
+    "countryProject": "Chile",
+    "techProject": "Solar"
+  },
+  "precio": 0.9,
+  "quantity": 192,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T13:02:26.437Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T13:02:26.437Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "656f565f5d728fab5352175c"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "CO2Cero S.A.S",
+  "proyecto": {
+    "$oid": "656f560e2661908a420cab27"
+  },
+  "projectData": {
+    "idProject": "114",
+    "standardOp": "CERCARBONO",
+    "nameProject": "PROYECTO REDD+ PAZCÍFICO SUR",
+    "vintageOp": "2018",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 5,
+  "quantity": 40000,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T16:57:03.296Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T11:06:02.081Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656f58f15d728fab53521775"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Veolia Holding Colombia S.A.S",
+  "proyecto": {
+    "$oid": "656f58b12661908a420cab57"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia",
+    "techProject": "Landfill gas"
+  },
+  "precio": 3.75,
+  "quantity": 9901,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-03-13T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T17:08:01.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T11:49:21.149Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "656f595f2661908a420cab63"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Veolia Holding Colombia S.A.S",
+  "proyecto": {
+    "$oid": "656f593a5d728fab5352177b"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2022",
+    "countryProject": "Colombia",
+    "techProject": "Landfill gas"
+  },
+  "precio": 3.75,
+  "quantity": 33068,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-03-13T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-05T17:09:51.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T11:49:33.232Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6571a4e91dc217029fc70797"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "FERRER THERAPEUTICS SA DE CV",
+  "proyecto": {
+    "$oid": "656f57f65d728fab53521766"
+  },
+  "projectData": {
+    "idProject": "2252",
+    "standardOp": "VCS",
+    "nameProject": "RIO ANAPU-PACAJA REDD PROJECT",
+    "vintageOp": "2016",
+    "countryProject": "Brazil",
+    "techProject": "REDD"
+  },
+  "precio": 5.15,
+  "quantity": 63,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-07T10:56:41.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T12:06:54.686Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 8
+},{
+  "_id": {
+    "$oid": "6571bb753a7fea506fcab98e"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "FERRER THERAPEUTICS SA DE CV",
+  "proyecto": {
+    "$oid": "656f560e2661908a420cab27"
+  },
+  "projectData": {
+    "idProject": "114",
+    "standardOp": "CERCARBONO",
+    "nameProject": "PROYECTO REDD+ PAZCÍFICO SUR",
+    "vintageOp": "2018",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 5.85,
+  "quantity": 171,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-07T12:32:53.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:09:17.040Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 5
+},{
+  "_id": {
+    "$oid": "6577191f3e46b1151e0bad4b"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "BDP Colombia SAS",
+  "proyecto": {
+    "$oid": "656ee5c045f587215f1f2e46"
+  },
+  "projectData": {
+    "idProject": "109",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Los Llanos",
+    "vintageOp": "2020-2021",
+    "countryProject": "Colombia",
+    "techProject": "Solar"
+  },
+  "precio": 4.9,
+  "quantity": 248,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [
+    "https://allcot-inventary.s3.amazonaws.com/Propuesta Compensacion de Carbono - 231204_PSA BDP_Propuesta_CVm379x.pdf"
+  ],
+  "createdAt": {
+    "$date": "2023-12-11T14:13:51.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:38:45.461Z"
+  },
+  "__v": 0,
+  "versusPrice": 2.93
+},{
+  "_id": {
+    "$oid": "6577196a3e46b1151e0bad58"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "BDP Colombia SAS",
+  "proyecto": {
+    "$oid": "656f593a5d728fab5352177b"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2022",
+    "countryProject": "Colombia",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4.9,
+  "quantity": 248,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [
+    "https://allcot-inventary.s3.amazonaws.com/Propuesta Compensacion de Carbono - 231204_PSA BDP_Propuesta_CV617bg.pdf"
+  ],
+  "createdAt": {
+    "$date": "2023-12-11T14:15:06.442Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:38:06.677Z"
+  },
+  "__v": 0,
+  "versusPrice": 3.49
+},{
+  "_id": {
+    "$oid": "65781ea43b2e9eba7cc8ce4c"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "TAIWAN CARBON SOLUTION EXCHANGE",
+  "proyecto": {
+    "$oid": "656ee6a445f587215f1f2e54"
+  },
+  "projectData": {
+    "idProject": "3976",
+    "standardOp": "GS",
+    "nameProject": "SANTA MARTA LANDFILL GAS (LFG) CAPTURE FOR ELECTRICITY GENERATION PROJECT",
+    "vintageOp": "2022",
+    "countryProject": "Chile",
+    "techProject": "Landfill gas"
+  },
+  "precio": 6,
+  "quantity": 12453,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T08:49:40.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:36:49.552Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "Hay q pagarle a Misha ",
+  "paymentDate": null,
+  "versusPrice": 0.7
+},{
+  "_id": {
+    "$oid": "65783315d6f4c2f1b214fab3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Unicarbo Energia e Biogas Ltda",
+  "proyecto": {
+    "$oid": "657831dfd6f4c2f1b214faa9"
+  },
+  "projectData": {
+    "idProject": "3448",
+    "standardOp": "VCS",
+    "nameProject": "LANDFILL GAS COLLECTION AND UTILIZATION AT THE MARCA CARIACICA – II LANDFILL",
+    "vintageOp": "2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4,
+  "quantity": 175000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-04-23T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-04-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:16:53.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T15:11:22.394Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "657833dbf29c48ecaab1e472"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Unicarbo Energia e Biogas Ltda",
+  "proyecto": {
+    "$oid": "657833b3d6f4c2f1b214fac8"
+  },
+  "projectData": {
+    "idProject": "9943",
+    "standardOp": "VCS",
+    "nameProject": " Cahnanduba Landfill Project",
+    "vintageOp": "2021-2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4,
+  "quantity": 125000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:20:11.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:20:11.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65783459f29c48ecaab1e486"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Unicarbo Energia e Biogas Ltda",
+  "proyecto": {
+    "$oid": "65783438f29c48ecaab1e47b"
+  },
+  "projectData": {
+    "idProject": "TBD (Girua)",
+    "standardOp": "VCS",
+    "nameProject": "Girua",
+    "vintageOp": "2022-2023",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 4,
+  "quantity": 28857,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:22:17.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:22:17.611Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657834c8f29c48ecaab1e4a2"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Unicarbo Energia e Biogas Ltda",
+  "proyecto": {
+    "$oid": "657834a4f29c48ecaab1e496"
+  },
+  "projectData": {
+    "idProject": "4027",
+    "standardOp": "VCS",
+    "nameProject": "GUAMÁ LANDFILL GAS PROJECT",
+    "vintageOp": "2022-2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4,
+  "quantity": 83804,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:24:08.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:24:08.237Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65783528d6f4c2f1b214faf3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Unicarbo Energia e Biogas Ltda",
+  "proyecto": {
+    "$oid": "65783506f29c48ecaab1e4a9"
+  },
+  "projectData": {
+    "idProject": "TBD (Sao Leopoldo)",
+    "standardOp": "VCS",
+    "nameProject": "Sao Leopoldo",
+    "vintageOp": "2021-2023",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 4,
+  "quantity": 108476,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:25:44.884Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:25:44.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657835ccf29c48ecaab1e4b6"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Unicarbo Energia e Biogas Ltda",
+  "proyecto": {
+    "$oid": "657835aed6f4c2f1b214fafa"
+  },
+  "projectData": {
+    "idProject": "TBD (Victor Graeff)",
+    "standardOp": "VCS",
+    "nameProject": "Victor Graeff",
+    "vintageOp": "2022-2023",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 4,
+  "quantity": 40720,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:28:28.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:28:28.650Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65783a64f29c48ecaab1e4d8"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Consorcio Santa Marta S.A.",
+  "proyecto": {
+    "$oid": "657839eef29c48ecaab1e4cd"
+  },
+  "projectData": {
+    "idProject": "3976",
+    "standardOp": "GS",
+    "nameProject": "SANTA MARTA LANDFILL GAS (LFG) CAPTURE FOR ELECTRICITY GENERATION PROJECT",
+    "vintageOp": "2023",
+    "countryProject": "Chile",
+    "techProject": "Landfill gas"
+  },
+  "precio": 0.7,
+  "quantity": 290000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-09-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T10:48:04.425Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:48:04.425Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657852999dc419bbb249fbfa"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "EDF Renewables Chile",
+  "proyecto": {
+    "$oid": "657851a59dc419bbb249fbee"
+  },
+  "projectData": {
+    "idProject": "12065",
+    "standardOp": "GS",
+    "nameProject": "CABO LEONES WIND FARM",
+    "vintageOp": "2021-2022",
+    "countryProject": "Chile",
+    "techProject": "Wind"
+  },
+  "precio": 1,
+  "quantity": 208551,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-12T12:31:21.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:30:27.909Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6579726a9516e9527c328c37"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "De Origen LATAM S.A.S",
+  "proyecto": {
+    "$oid": "656ee4a913b9c426bd9d9296"
+  },
+  "projectData": {
+    "idProject": "106",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Aire de Vida “FIIVO JAAGAVA KOMUYA JAG+Y+”Monochoa REDD+",
+    "vintageOp": "2019",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 6,
+  "quantity": 16,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-13T08:59:22.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:36:18.378Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 4.68
+},{
+  "_id": {
+    "$oid": "6579b73ae36ef057c34890f9"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "EDF Renewables Chile",
+  "proyecto": {
+    "$oid": "6579b6c4e36ef057c34890e1"
+  },
+  "projectData": {
+    "idProject": "12065",
+    "standardOp": "GS",
+    "nameProject": "CABO LEONES WIND FARM",
+    "vintageOp": "2023",
+    "countryProject": "Chile",
+    "techProject": "Wind"
+  },
+  "precio": 1,
+  "quantity": 128199,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-29T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-27T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-13T13:52:58.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:06:10.624Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "657ac892c2efc7f725d2cfcb"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Empresa electrica aguas del Melado spa",
+  "proyecto": {
+    "$oid": "657ac7b69bc0d8e6ef8813df"
+  },
+  "projectData": {
+    "idProject": "954",
+    "standardOp": "GS",
+    "nameProject": "LOS HIERROS HYDROELECTRIC PLANT",
+    "vintageOp": "2014-2021",
+    "countryProject": "Chile",
+    "techProject": "Small Hydro"
+  },
+  "precio": 1,
+  "quantity": 517269,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-11-29T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-13T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-14T09:19:14.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T11:42:24.729Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "657aca1d4a84476dde70d195"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Noracid S.A.",
+  "proyecto": {
+    "$oid": "657ac95c4a84476dde70d188"
+  },
+  "projectData": {
+    "idProject": "8854",
+    "standardOp": "CDM",
+    "nameProject": "Mejillones Sulphuric Acid Plant",
+    "vintageOp": "2013-2020",
+    "countryProject": "Chile",
+    "techProject": "Waste"
+  },
+  "precio": 1,
+  "quantity": 951949,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-14T09:25:49.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T09:25:49.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657acc354a84476dde70d1a3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Comasa S.A.",
+  "proyecto": {
+    "$oid": "657acbff6b5ee0c8384663d5"
+  },
+  "projectData": {
+    "idProject": "8099",
+    "standardOp": "CDM",
+    "nameProject": "Lautaro Generation Project",
+    "vintageOp": "2013 - 2020",
+    "countryProject": "Chile",
+    "techProject": "Biomass to Electricity"
+  },
+  "precio": 0.8,
+  "quantity": 510000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-09T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-09T00:00:00Z"
+  },
+  "detalles": "cadena: Request for issuance 8099 Lautaro Generation Project - Request published",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-14T09:34:45.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:22:40.527Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "657ad42626e8912bbcffc0d7"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Celulosa Arauco y Constitución S.A.",
+  "proyecto": {
+    "$oid": "657ad39f26e8912bbcffc0cb"
+  },
+  "projectData": {
+    "idProject": "258",
+    "standardOp": "CDM",
+    "nameProject": "Nueva Aldea Biomass Power Plant - Phase 1",
+    "vintageOp": "2017-2018",
+    "countryProject": "Chile",
+    "techProject": "Biomass to Electricity"
+  },
+  "precio": 1.15,
+  "quantity": 211822,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-14T10:08:38.111Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T10:08:38.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657ad45826e8912bbcffc0e3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Celulosa Arauco y Constitución S.A.",
+  "proyecto": {
+    "$oid": "657ad3da1ebb1c79cec34200"
+  },
+  "projectData": {
+    "idProject": "346",
+    "standardOp": "CDM",
+    "nameProject": "Nueva Aldea Biomass Power Plant Phase 2 ",
+    "vintageOp": "2018",
+    "countryProject": "Chile",
+    "techProject": "Biomass to Electricity"
+  },
+  "precio": 1.15,
+  "quantity": 29807,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-14T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-14T10:09:28.826Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T10:09:28.826Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657c11a306bdff1af3435c2d"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "GREEN EARTH SOLUTIONS (Treegacy)",
+  "proyecto": {
+    "$oid": "656f0ca86f99943eeef0cd03"
+  },
+  "projectData": {
+    "idProject": "3056",
+    "standardOp": "VCS",
+    "nameProject": "BRASCARBON METHANE RECOVERY PROJECT BCA-BRA-17",
+    "vintageOp": "2022",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 4.45,
+  "quantity": 44,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-15T08:43:15.406Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T10:35:41.033Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 3.7
+},{
+  "_id": {
+    "$oid": "657c309962dfbe703516d46d"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Carbon Trade Exchange Ltd (CTX)",
+  "proyecto": {
+    "$oid": "6578375df29c48ecaab1e4bb"
+  },
+  "projectData": {
+    "idProject": "5495",
+    "standardOp": "CDM",
+    "nameProject": "Electricity generation from renewable sources - Windfarms Santa Clara I, Santa Clara II, Santa Clara III, Santa Clara IV, Santa Clara V, Santa Clara VI and Eurus VI",
+    "vintageOp": "2017 - 2020",
+    "countryProject": "Brazil",
+    "techProject": "Wind"
+  },
+  "precio": 1.35,
+  "quantity": 4500,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-15T10:55:21.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-03T08:26:59.790Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "Créditos de CG - https://app.clickup.com/t/86dqv2yxx",
+  "paymentDate": null,
+  "versusPrice": 3.18
+},{
+  "_id": {
+    "$oid": "65830054370238286603cdd3"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Weact Pty.Ltd.",
+  "proyecto": {
+    "$oid": "6578319df29c48ecaab1e444"
+  },
+  "projectData": {
+    "idProject": "6022",
+    "standardOp": "CDM",
+    "nameProject": "Xinjiang Dabancheng Wind Farm Phase I Project",
+    "vintageOp": "2017-2019",
+    "countryProject": "China",
+    "techProject": "Wind"
+  },
+  "precio": 3.05,
+  "quantity": 1000,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "1000 que sobraron de la transacción con CG. Son nuestros",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-20T14:55:16.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T12:37:59.152Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "65832910f5f99cacf2437047"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Brascarbon Consultoria Projetos E Repres entação S A",
+  "proyecto": {
+    "$oid": "658328f0ccdb650e66721b08"
+  },
+  "projectData": {
+    "idProject": "3056",
+    "standardOp": "VCS",
+    "nameProject": "BRASCARBON METHANE RECOVERY PROJECT BCA-BRA-17",
+    "vintageOp": "2022",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 3.4,
+  "quantity": 250,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-20T17:49:04.208Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T12:37:30.400Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "65842aeb40382f01c7cf8b6e"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Matrix Renewable Colombia S.A.S",
+  "proyecto": {
+    "$oid": "65842abf40382f01c7cf8b67"
+  },
+  "projectData": {
+    "idProject": "109",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Bosques Solares de los Llanos 1",
+    "vintageOp": "2021",
+    "countryProject": "Colombia",
+    "techProject": "Solar"
+  },
+  "precio": 2.93,
+  "quantity": 62,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-02-29T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-21T12:09:15.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T09:39:04.627Z"
+  },
+  "__v": 0,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6585781a4030c762e0e0ec63"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Consorcio Santa Marta S.A.",
+  "proyecto": {
+    "$oid": "65783a2d2dfe86c0af7db5c2"
+  },
+  "projectData": {
+    "idProject": "3976",
+    "standardOp": "GS",
+    "nameProject": "SANTA MARTA LANDFILL GAS (LFG) CAPTURE FOR ELECTRICITY GENERATION PROJECT",
+    "vintageOp": "2024",
+    "countryProject": "Chile",
+    "techProject": "Landfill gas"
+  },
+  "precio": 0.7,
+  "versusPrice": null,
+  "quantity": 223000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2025-03-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2025-04-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2023-12-22T11:50:50.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T12:44:58.340Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6597f9f23674a02335f453e5"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "STX Commodities B.V.",
+  "proyecto": {
+    "$oid": "656da84b88f61042ee9b7501"
+  },
+  "projectData": {
+    "idProject": "425",
+    "standardOp": "CDM",
+    "nameProject": "Aguascalientes – EcoMethane Landfill Gas to Energy Project",
+    "vintageOp": "2013-2016",
+    "countryProject": "Mexico",
+    "techProject": "Landfill gas"
+  },
+  "precio": 1.75,
+  "versusPrice": 1.63,
+  "quantity": 8362,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-05T12:45:38.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T14:21:59.008Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6597faa73674a02335f453f5"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "STX Commodities B.V.",
+  "proyecto": {
+    "$oid": "6578375df29c48ecaab1e4bb"
+  },
+  "projectData": {
+    "idProject": "5495",
+    "standardOp": "CDM",
+    "nameProject": "Electricity generation from renewable sources - Windfarms Santa Clara I, Santa Clara II, Santa Clara III, Santa Clara IV, Santa Clara V, Santa Clara VI and Eurus VI",
+    "vintageOp": "2017-2020",
+    "countryProject": "Brazil",
+    "techProject": "Wind"
+  },
+  "precio": 1,
+  "versusPrice": 3.18,
+  "quantity": 3899,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-05T12:48:39.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T14:22:52.964Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65a113a2d365488e606a2ce6"
+  },
+  "transaction": "Purchase",
+  "equipo": "Sourcing",
+  "cliente": "Matrix Renewable S.L.U",
+  "proyecto": {
+    "$oid": "65a11156949594c354d3d6fa"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "IREC - CHILE",
+    "vintageOp": "2023",
+    "countryProject": "Chile",
+    "techProject": "Solar"
+  },
+  "precio": 0.59,
+  "versusPrice": 0.66,
+  "quantity": 28147,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-12T10:25:38.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T07:55:06.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65a114e2949594c354d3d716"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Enerjisa Elektrik Enerjisi",
+  "proyecto": {
+    "$oid": "65a11156949594c354d3d6fa"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "IREC - CHILE",
+    "vintageOp": "2023",
+    "countryProject": "Chile",
+    "techProject": "Solar"
+  },
+  "precio": 0.66,
+  "versusPrice": 0.59,
+  "quantity": 28147,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-12T10:30:58.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T08:38:07.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65af7c5f5ae679225d8e6228"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Procter & Gamble (P&G)",
+  "proyecto": {
+    "$oid": "656f560e2661908a420cab27"
+  },
+  "projectData": {
+    "idProject": "114",
+    "standardOp": "CERCARBONO",
+    "nameProject": "PROYECTO REDD+ PAZCÍFICO SUR",
+    "vintageOp": "2018",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 5.85,
+  "versusPrice": 5,
+  "quantity": 80,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "operacion excel: 59\nclick up: https://app.clickup.com/t/86dracd61",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-23T08:44:15.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T07:54:53.535Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0f244377e2feb6b22f47c"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Empresa de Generación Huallaga S.A",
+  "proyecto": {
+    "$oid": "65b0f14fcf0e0487c95c9f74"
+  },
+  "projectData": {
+    "idProject": "9116",
+    "standardOp": "CDM",
+    "nameProject": "Chaglla Hydroelectric Power Plant CDM Project",
+    "vintageOp": "2016-2022",
+    "countryProject": "Peru",
+    "techProject": "Hydro"
+  },
+  "precio": 0.7,
+  "versusPrice": null,
+  "quantity": 830673,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T11:19:32.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:24:02.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0fa56dd6fdd487c1295a7"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Orizon Valoriçao Resíduos",
+  "proyecto": {
+    "$oid": "65b0f8c5dd6fdd487c12958d"
+  },
+  "projectData": {
+    "idProject": "12047",
+    "standardOp": "GS",
+    "nameProject": "ECOPARQUE CANDEIAS LANDFILL GAS PROJECT",
+    "vintageOp": "2021",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 7,
+  "versusPrice": null,
+  "quantity": 503279,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T11:53:58.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T13:54:57.183Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0fa7acc81b9751c4ff506"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Orizon Valoriçao Resíduos",
+  "proyecto": {
+    "$oid": "65b0f905dd6fdd487c129591"
+  },
+  "projectData": {
+    "idProject": "12047",
+    "standardOp": "GS",
+    "nameProject": "ECOPARQUE CANDEIAS LANDFILL GAS PROJECT",
+    "vintageOp": "2022",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 7,
+  "versusPrice": null,
+  "quantity": 363475,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T11:54:34.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T11:54:34.703Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0fa9ecc81b9751c4ff50e"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Orizon Valoriçao Resíduos",
+  "proyecto": {
+    "$oid": "65b0f944cc81b9751c4ff4e2"
+  },
+  "projectData": {
+    "idProject": "12045",
+    "standardOp": "GS",
+    "nameProject": "ECOPARQUE JOÃO PESSOA LANDFILL GAS PROJECT",
+    "vintageOp": "2021-2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 7,
+  "versusPrice": null,
+  "quantity": 221000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T11:55:10.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T11:55:10.003Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0fabddd6fdd487c1295b5"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Orizon Valoriçao Resíduos",
+  "proyecto": {
+    "$oid": "65b0f983dd6fdd487c129595"
+  },
+  "projectData": {
+    "idProject": "11736",
+    "standardOp": "GS",
+    "nameProject": "CTR SÃO GONÇALO LANDFILL GAS PROJECT",
+    "vintageOp": "2021",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 7,
+  "versusPrice": null,
+  "quantity": 409590,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T11:55:41.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T11:55:41.424Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0fad6dd6fdd487c1295bd"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Orizon Valoriçao Resíduos",
+  "proyecto": {
+    "$oid": "65b0f9b3cc81b9751c4ff4e6"
+  },
+  "projectData": {
+    "idProject": "11736",
+    "standardOp": "GS",
+    "nameProject": "CTR SÃO GONÇALO LANDFILL GAS PROJECT",
+    "vintageOp": "2022",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 7,
+  "versusPrice": null,
+  "quantity": 409590,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-05-30T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T11:56:06.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T11:56:06.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65b0fc871599badd0e1c3963"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "Fundación Ecotropics Colombia",
+  "proyecto": {
+    "$oid": "65b0fbb7dd6fdd487c1295c2"
+  },
+  "projectData": {
+    "idProject": "47",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Infraestructuras Ecosistémicas REDD+ para los Campesinos de Antioquia Colombia",
+    "vintageOp": "2021",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 3.26,
+  "versusPrice": null,
+  "quantity": 200000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-24T12:03:19.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T12:03:19.783Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ba138e7e40228b34053fb0"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Onesixth Expeditions Ltd",
+  "proyecto": {
+    "$oid": "6578375df29c48ecaab1e4bb"
+  },
+  "projectData": {
+    "idProject": "5495",
+    "standardOp": "CDM",
+    "nameProject": "Electricity generation from renewable sources - Windfarms Santa Clara I, Santa Clara II, Santa Clara III, Santa Clara IV, Santa Clara V, Santa Clara VI and Eurus VI",
+    "vintageOp": "2017-2020",
+    "countryProject": "Brazil",
+    "techProject": "Wind"
+  },
+  "precio": 2.15,
+  "quantity": 391,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-01-31T09:31:58.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T14:23:06.184Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 3.18
+},{
+  "_id": {
+    "$oid": "65bb5f5b4950ce4e2d263d8d"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "STX Commodities B.V.",
+  "proyecto": {
+    "$oid": "65774648c7dc7506fb810f33"
+  },
+  "projectData": {
+    "idProject": "-",
+    "standardOp": "I-RECs",
+    "nameProject": "-",
+    "vintageOp": "2023",
+    "countryProject": "Colombia",
+    "techProject": "Hydro"
+  },
+  "precio": 0.85,
+  "versusPrice": 0.75,
+  "quantity": 1999,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-01T09:07:39.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T07:54:37.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65c0a8ae7d36e65b2990a150"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "VC4 Climate",
+  "proyecto": {
+    "$oid": "65783d64f29c48ecaab1e504"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2012",
+    "countryProject": "Brazil",
+    "techProject": "REDD+"
+  },
+  "precio": 1.55,
+  "versusPrice": 10.9,
+  "quantity": 100,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-05T09:21:50.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T14:17:05.099Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65ca0297ca34748ec6ca36f5"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "EUROPA MUNDO VACACIONES S.L.U",
+  "proyecto": {
+    "$oid": "65783ad82dfe86c0af7db5d8"
+  },
+  "projectData": {
+    "idProject": "902",
+    "standardOp": "VCS",
+    "nameProject": "KARIBA REDD+ PROJECT",
+    "vintageOp": "2014",
+    "countryProject": "Zimbabwe",
+    "techProject": "REDD+"
+  },
+  "precio": 3.45,
+  "quantity": 1000,
+  "delivery": "Pending",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-12T11:35:51.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:20:38.506Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "detalles": "Mary hace las cancelaciones de esta en tres partes :  28,722,50 - comprobantes en odu - Queda mandarles 200 que estan a su dispoción. ",
+  "paymentDate": null,
+  "versusPrice": 10.63
+},{
+  "_id": {
+    "$oid": "65ca029dca34748ec6ca36fe"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "EUROPA MUNDO VACACIONES S.L.U",
+  "proyecto": {
+    "$oid": "6578431544b37877333866bc"
+  },
+  "projectData": {
+    "idProject": "1650",
+    "standardOp": "VCS",
+    "nameProject": "Keo Seima Wildlife Sanctuary",
+    "vintageOp": "2016",
+    "countryProject": "Cambodia",
+    "techProject": "REDD+"
+  },
+  "precio": 4.55,
+  "quantity": 1000,
+  "delivery": "Pending",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-12T11:35:57.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:19:57.689Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 12.4
+},{
+  "_id": {
+    "$oid": "65ca02a2ca34748ec6ca3707"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "EUROPA MUNDO VACACIONES S.L.U",
+  "proyecto": {
+    "$oid": "65783d64f29c48ecaab1e504"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2012",
+    "countryProject": "Brazil",
+    "techProject": "REDD+"
+  },
+  "precio": 3,
+  "quantity": 1000,
+  "delivery": "Pending",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-12T11:36:02.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:20:11.929Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "detalles": "Mary hace las cancelaciones de 800 creditos, quedan 200 - ",
+  "paymentDate": null,
+  "versusPrice": 10.9
+},{
+  "_id": {
+    "$oid": "65ca02a6ca34748ec6ca3710"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "EUROPA MUNDO VACACIONES S.L.U",
+  "proyecto": {
+    "$oid": "6593d60b927a4bbd19687166"
+  },
+  "projectData": {
+    "idProject": "92",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Cerro Patacón Landfill Gas Usage",
+    "vintageOp": "2017-2019",
+    "countryProject": "Panama",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4,
+  "quantity": 1000,
+  "delivery": "Pending",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-12T11:36:06.503Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:09:49.490Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-08-13T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 3.7
+},{
+  "_id": {
+    "$oid": "65ca02aa035ddbf222f8af7a"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "EUROPA MUNDO VACACIONES S.L.U",
+  "proyecto": {
+    "$oid": "656da54e88f61042ee9b74dc"
+  },
+  "projectData": {
+    "idProject": "490",
+    "standardOp": "CDM",
+    "nameProject": "Catalytic N2O destruction project in the tail gas of the Nitric Acid Plant of Abu Qir Fertilizer Co.",
+    "vintageOp": "2020",
+    "countryProject": "Egypt",
+    "techProject": "N20 destrutction"
+  },
+  "precio": 0.95,
+  "quantity": 1000,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-12T11:36:10.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T14:14:38.271Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 2.05
+},{
+  "_id": {
+    "$oid": "65ca37a28f81ac2d8bd1ce8a"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "SEFE Marketing and Trading Limited",
+  "proyecto": {
+    "$oid": "657831dfd6f4c2f1b214faa9"
+  },
+  "projectData": {
+    "idProject": "3448",
+    "standardOp": "VCS",
+    "nameProject": " MARCA CARIACICA LANDFILL",
+    "vintageOp": "2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4.5,
+  "versusPrice": 4,
+  "quantity": 60000,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-12T15:22:10.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T07:54:21.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65cde48a202714c5f9dd2e52"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Allcot Sport & Tech",
+  "proyecto": {
+    "$oid": "6578375df29c48ecaab1e4bb"
+  },
+  "projectData": {
+    "idProject": "5495",
+    "standardOp": "CDM",
+    "nameProject": "Electricity generation from renewable sources - Windfarms Santa Clara I, Santa Clara II, Santa Clara III, Santa Clara IV, Santa Clara V, Santa Clara VI and Eurus VI",
+    "vintageOp": "2017-2020",
+    "countryProject": "Brazil",
+    "techProject": "Wind"
+  },
+  "precio": 1.25,
+  "versusPrice": 3.18,
+  "quantity": 5000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-01T00:00:00Z"
+  },
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "Solo se paso 3704 creditos de los 5k",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-15T10:16:42.922Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:22:14.541Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65cf24fe187811865e158443"
+  },
+  "transaction": "Purchase",
+  "equipo": "Trading",
+  "cliente": "EDF Renewables Chile",
+  "proyecto": {
+    "$oid": "65cf2269187811865e158419"
+  },
+  "projectData": {
+    "idProject": "12065",
+    "standardOp": "GS",
+    "nameProject": "CABO LEONES WIND FARM",
+    "vintageOp": "2022",
+    "countryProject": "Chile",
+    "techProject": "Wind"
+  },
+  "precio": 1,
+  "versusPrice": null,
+  "quantity": 221806,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-16T09:03:58.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:30:56.515Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65cf38612bb764116e8f168c"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "GO2-Markets GmbH",
+  "proyecto": {
+    "$oid": "65774648c7dc7506fb810f33"
+  },
+  "projectData": {
+    "idProject": "-",
+    "standardOp": "I-RECs",
+    "nameProject": "-",
+    "vintageOp": "2023",
+    "countryProject": "Colombia",
+    "techProject": "Hydro"
+  },
+  "precio": 0.85,
+  "versusPrice": 0.75,
+  "quantity": 3200,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-16T10:26:41.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T08:38:15.692Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65d5de3bb232feff469608ca"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Renting Colombia",
+  "proyecto": {
+    "$oid": "65ba1f606e8848b7a40cd878"
+  },
+  "projectData": {
+    "idProject": "4260",
+    "standardOp": "CSA",
+    "nameProject": "Hydroelectric Aures Bajo",
+    "vintageOp": "2020-2021",
+    "countryProject": "Colombia",
+    "techProject": "Hydro"
+  },
+  "precio": 4.9,
+  "versusPrice": 4.1,
+  "quantity": 20359,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-31T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-02-21T11:27:55.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T14:30:06.246Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65e18fe33745e9c2037e6763"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "ECOHZ AS",
+  "proyecto": {
+    "$oid": "656f1f3ce0dc4afdf26df4da"
+  },
+  "projectData": {
+    "idProject": "IRECs",
+    "standardOp": "I-RECs",
+    "nameProject": "Quillay Solar - QUILSOLA003",
+    "vintageOp": "2022",
+    "countryProject": "Chile",
+    "techProject": "Solar"
+  },
+  "precio": 0.25,
+  "versusPrice": null,
+  "quantity": 192,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-03-01T08:20:51.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T09:00:29.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65e9d08e55b4ddadbe5a7c0b"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Besalco",
+  "proyecto": {
+    "$oid": "657ac7b69bc0d8e6ef8813df"
+  },
+  "projectData": {
+    "idProject": "954",
+    "standardOp": "GS",
+    "nameProject": "LOS HIERROS HYDROELECTRIC PLANT",
+    "vintageOp": "2014-2021",
+    "countryProject": "Chile",
+    "techProject": "Small Hydro"
+  },
+  "precio": 0.75,
+  "versusPrice": null,
+  "quantity": 69841,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-04-12T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-04-12T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-03-07T14:34:54.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-07T14:34:54.226Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65eef33352619041ba47f32e"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "SEFE Marketing and Trading Limited",
+  "proyecto": {
+    "$oid": "657831dfd6f4c2f1b214faa9"
+  },
+  "projectData": {
+    "idProject": "3448",
+    "standardOp": "VCS",
+    "nameProject": " MARCA CARIACICA LANDFILL",
+    "vintageOp": "2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4.6,
+  "quantity": 613,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-03-11T12:04:03.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T15:04:23.777Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": 4
+},{
+  "_id": {
+    "$oid": "660284e82351945b117c8092"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "NeutalX",
+  "proyecto": {
+    "$oid": "656f560e2661908a420cab27"
+  },
+  "projectData": {
+    "idProject": "114",
+    "standardOp": "CERCARBONO",
+    "nameProject": "PROYECTO REDD+ PAZCÍFICO SUR",
+    "vintageOp": "2018",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 4.5,
+  "versusPrice": 5,
+  "quantity": 6500,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-03-26T08:18:48.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T07:30:25.445Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6603ffcff929f2a65195aacf"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "SCB BROKERS SA",
+  "proyecto": {
+    "$oid": "656da54e88f61042ee9b74dc"
+  },
+  "projectData": {
+    "idProject": "490",
+    "standardOp": "CDM",
+    "nameProject": "Catalytic N2O destruction project in the tail gas of the Nitric Acid Plant of Abu Qir Fertilizer Co.",
+    "vintageOp": "2020",
+    "countryProject": "Egypt",
+    "techProject": "N20 destrutction"
+  },
+  "precio": 0.5,
+  "versusPrice": null,
+  "quantity": 6297,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "creditos de misha",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-03-27T11:15:27.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T13:49:56.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "660ea4039ac0902f54984e75"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Climate Trade SL",
+  "proyecto": {
+    "$oid": "656da54e88f61042ee9b74dc"
+  },
+  "projectData": {
+    "idProject": "490",
+    "standardOp": "CDM",
+    "nameProject": "Catalytic N2O destruction project in the tail gas of the Nitric Acid Plant of Abu Qir Fertilizer Co.",
+    "vintageOp": "2020",
+    "countryProject": "Egypt"
+  },
+  "precio": 0.85,
+  "quantity": 3422,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-04-04T12:58:43.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T13:50:12.792Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "66139d7dd6654e45643243ee"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Net Zero Holdings Group",
+  "proyecto": {
+    "$oid": "656f0965cd19802f110c2901"
+  },
+  "projectData": {
+    "idProject": "707",
+    "standardOp": "GS",
+    "nameProject": "LFG EXTRACTION  ISTANBUL, TURKEY",
+    "vintageOp": "2013",
+    "countryProject": "Turkey",
+    "techProject": "Landfill gas"
+  },
+  "precio": 5.3,
+  "versusPrice": null,
+  "quantity": 5,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-07-31T00:00:00Z"
+  },
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-04-08T07:32:13.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T13:51:01.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66139da2b452bc108082944b"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Net Zero Holdings Group",
+  "proyecto": {
+    "$oid": "658328f0ccdb650e66721b08"
+  },
+  "projectData": {
+    "idProject": "3056",
+    "standardOp": "VCS",
+    "nameProject": "BRASCARBON METHANE RECOVERY PROJECT BCA-BRA-17",
+    "vintageOp": "2022",
+    "countryProject": "Brazil",
+    "techProject": "Biogas"
+  },
+  "precio": 4.1,
+  "versusPrice": null,
+  "quantity": 45,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-04-08T07:32:50.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T08:59:45.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "662a40981eeebe767bbca5b9"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Allcot Sport & Tech",
+  "proyecto": {
+    "$oid": "6578319df29c48ecaab1e444"
+  },
+  "projectData": {
+    "idProject": "6022",
+    "standardOp": "CDM",
+    "nameProject": "Xinjiang Dabancheng Wind Farm Phase I Project",
+    "vintageOp": "2017-2019",
+    "countryProject": "China"
+  },
+  "precio": 0.8,
+  "quantity": 465,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-04-25T11:38:00.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T13:51:45.067Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6630ab17834b7e83b2187fe2"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "ALLCOT Group",
+  "proyecto": {
+    "$oid": "656f560e2661908a420cab27"
+  },
+  "projectData": {
+    "idProject": "114",
+    "standardOp": "CERCARBONO",
+    "nameProject": "PROYECTO REDD+ PAZCÍFICO SUR",
+    "vintageOp": "2018",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 0,
+  "versusPrice": null,
+  "quantity": 450,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-05-01T00:00:00Z"
+  },
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-04-30T08:25:59.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T09:53:21.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6634a723b8b515330b8d22c7"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "BKS CARBON CONSULTING PRIVATE LIMITED",
+  "proyecto": {
+    "$oid": "6578375df29c48ecaab1e4bb"
+  },
+  "projectData": {
+    "idProject": "5495",
+    "standardOp": "CDM",
+    "nameProject": "Electricity generation from renewable sources - Windfarms Santa Clara I, Santa Clara II, Santa Clara III, Santa Clara IV, Santa Clara V, Santa Clara VI and Eurus VI",
+    "vintageOp": "2017-2020",
+    "countryProject": "Brazil",
+    "techProject": "Wind"
+  },
+  "precio": 1.08,
+  "versusPrice": null,
+  "quantity": 13290,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-05-10T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-05-10T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-03T08:58:11.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T08:58:11.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6634a79e4bb2a6b8a5bf3800"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Rimorchiatori Riuniti Colombia SAS",
+  "proyecto": {
+    "$oid": "656ee18013b9c426bd9d9283"
+  },
+  "projectData": {
+    "idProject": "50",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Antanas landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia"
+  },
+  "precio": 4.08,
+  "quantity": 639,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-03T09:00:14.932Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T09:01:24.454Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-05-17T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-05-17T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6638ed080e1971262f1754e8"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Carbon Neutral Plus LLC",
+  "proyecto": {
+    "$oid": "65783d64f29c48ecaab1e504"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2012",
+    "countryProject": "Brazil"
+  },
+  "precio": 2.1,
+  "quantity": 622,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-06T14:45:28.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T14:46:30.071Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-05-15T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-05-15T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6638ed0e4b1943789ea043e2"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Carbon Neutral Plus LLC",
+  "proyecto": {
+    "$oid": "65841cce6c8d740cbafa7604"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2013",
+    "countryProject": "Brazil"
+  },
+  "precio": 2.1,
+  "quantity": 622,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-06T14:45:34.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T14:46:20.420Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-05-15T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-05-15T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6638ed164b1943789ea043eb"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Carbon Neutral Plus LLC",
+  "proyecto": {
+    "$oid": "65841d1b6c8d740cbafa7607"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2014",
+    "countryProject": "Brazil"
+  },
+  "precio": 2.1,
+  "quantity": 622,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-06T14:45:42.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T14:46:10.569Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-05-15T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-05-15T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6638ed1b0e1971262f1754f3"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Carbon Neutral Plus LLC",
+  "proyecto": {
+    "$oid": "65841d6ce057562d9376f2b7"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2015",
+    "countryProject": "Brazil"
+  },
+  "precio": 2.1,
+  "quantity": 622,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-06T14:45:47.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T14:46:03.065Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-05-14T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-05-17T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "663a1026509c2caac3f81711"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Climate Trade SL",
+  "proyecto": {
+    "$oid": "656da54e88f61042ee9b74dc"
+  },
+  "projectData": {
+    "idProject": "490",
+    "standardOp": "CDM",
+    "nameProject": "Catalytic N2O destruction project in the tail gas of the Nitric Acid Plant of Abu Qir Fertilizer Co.",
+    "vintageOp": "2020",
+    "countryProject": "Egypt",
+    "techProject": "N20 destrutction"
+  },
+  "precio": 0.94,
+  "versusPrice": null,
+  "quantity": 200,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "VENDIDOS DESDE LA PLATAFORMA DE CLIMATETRADE",
+  "archivos": [
+    "https://allcot-inventary.s3.amazonaws.com/FACTURA - CLIMATE TRADE - CDM 490 07 DE MAYO 2024gg6k.pdf"
+  ],
+  "createdAt": {
+    "$date": "2024-05-07T11:27:34.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T13:53:10.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66463de540a8d30929c21fd3"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Koch Commodities Europe Limited",
+  "proyecto": {
+    "$oid": "657851a59dc419bbb249fbee"
+  },
+  "projectData": {
+    "idProject": "12065",
+    "standardOp": "GS",
+    "nameProject": "CABO LEONES WIND FARM",
+    "vintageOp": "2021",
+    "countryProject": "Chile",
+    "techProject": "Wind"
+  },
+  "precio": 4.15,
+  "versusPrice": 1,
+  "quantity": 208551,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-16T17:09:57.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T17:09:57.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66463e0d4736e875da193377"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Koch Commodities Europe Limited",
+  "proyecto": {
+    "$oid": "65cf2269187811865e158419"
+  },
+  "projectData": {
+    "idProject": "12065",
+    "standardOp": "GS",
+    "nameProject": "CABO LEONES WIND FARM",
+    "vintageOp": "2022",
+    "countryProject": "Chile",
+    "techProject": "Wind"
+  },
+  "precio": 4.15,
+  "versusPrice": 1,
+  "quantity": 221806,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-05-20T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-16T17:10:37.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T17:10:37.156Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6656e9d818db725c05231e67"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "GREENIPATH AG",
+  "proyecto": {
+    "$oid": "6628d6f9071179620f25e084"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "La Cascada (Abejorral) - La Sociedad Generadora La Cascada S.A.S. E.S.P",
+    "vintageOp": "2024",
+    "countryProject": "Colombia",
+    "techProject": "Small Hydro"
+  },
+  "precio": 0.9,
+  "versusPrice": 0.6,
+  "quantity": 1000,
+  "delivery": "Pending",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-05-29T08:39:52.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T08:39:52.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66695012b732e5f4a81317f3"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Petrobras Colombia Combustibles S.A",
+  "proyecto": {
+    "$oid": "656f58b12661908a420cab57"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia"
+  },
+  "precio": 3.2,
+  "quantity": 2100,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-12T07:36:50.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T07:35:15.636Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "666950289be3ed4960c7ddb3"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Petrobras Colombia Combustibles S.A",
+  "proyecto": {
+    "$oid": "656f58b12661908a420cab57"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia"
+  },
+  "precio": 3.2,
+  "quantity": 2570,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-12T07:37:12.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T07:35:27.518Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6669503eb732e5f4a81317fd"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Petrobras Colombia Combustibles S.A",
+  "proyecto": {
+    "$oid": "656ee18013b9c426bd9d9283"
+  },
+  "projectData": {
+    "idProject": "50",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Antanas landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia"
+  },
+  "precio": 3.2,
+  "quantity": 6883,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-12T07:37:34.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T07:35:41.342Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6669504cb732e5f4a8131806"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Petrobras Colombia Combustibles S.A",
+  "proyecto": {
+    "$oid": "656f58b12661908a420cab57"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2021",
+    "countryProject": "Colombia"
+  },
+  "precio": 3.2,
+  "quantity": 3144,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-12T07:37:48.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T07:35:57.602Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6669505e9be3ed4960c7ddbf"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Petrobras Colombia Combustibles S.A",
+  "proyecto": {
+    "$oid": "656f593a5d728fab5352177b"
+  },
+  "projectData": {
+    "idProject": "91",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Veolia LFG PTA Manizales and Cúcuta Landfill",
+    "vintageOp": "2022",
+    "countryProject": "Colombia"
+  },
+  "precio": 3.2,
+  "quantity": 32820,
+  "delivery": "Done",
+  "payment": "Done",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-12T07:38:06.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T13:05:13.945Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6669bc984d54422985f691af"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "CO2Cero S.A.S",
+  "proyecto": {
+    "$oid": "6578375df29c48ecaab1e4bb"
+  },
+  "projectData": {
+    "idProject": "5495",
+    "standardOp": "CDM",
+    "nameProject": "Electricity generation from renewable sources - Windfarms Santa Clara I, Santa Clara II, Santa Clara III, Santa Clara IV, Santa Clara V, Santa Clara VI and Eurus VI",
+    "vintageOp": "2017-2020",
+    "countryProject": "Brazil"
+  },
+  "precio": 1.55,
+  "quantity": 5244,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-12T15:19:52.388Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:04:56.939Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-07-03T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-07-03T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "66717e15c9eede1a7dc0c5fa"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "EuroFarma",
+  "proyecto": {
+    "$oid": "6628cd6a036238ba04b09851"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "La Cascada (Abejorral) - La Sociedad Generadora La Cascada S.A.S. E.S.P",
+    "vintageOp": "2023",
+    "countryProject": "Colombia"
+  },
+  "precio": 1.07,
+  "quantity": 2692,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-18T12:31:17.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T14:04:36.508Z"
+  },
+  "__v": 0,
+  "deliveryDate": {
+    "$date": "2024-07-05T00:00:00Z"
+  },
+  "detalles": "",
+  "paymentDate": {
+    "$date": "2024-07-03T00:00:00Z"
+  },
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "6674547d178b4de6770eca21"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "First Climate Markets AG",
+  "proyecto": {
+    "$oid": "6628cd6a036238ba04b09851"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "La Cascada (Abejorral) - La Sociedad Generadora La Cascada S.A.S. E.S.P",
+    "vintageOp": "2023",
+    "countryProject": "Colombia",
+    "techProject": "Small Hydro"
+  },
+  "precio": 1.5,
+  "versusPrice": 1.05,
+  "quantity": 169,
+  "delivery": "Pending",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "La venta tiene 0.25 centavos menos de dolar, porque es el fee del broke",
+  "archivos": [
+    "https://allcot-inventary.s3.amazonaws.com/X21917_Seller_Allcot AG_First Climate Markets AGmfghz.pdf"
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T16:10:37.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T16:10:37.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "667d7edcdf6efbddf09d7bf0"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Evolution Markets Inc.",
+  "proyecto": {
+    "$oid": "65cf2c0b66efe60d43828cde"
+  },
+  "projectData": {
+    "idProject": "125",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Ipixuna REDD+ Project",
+    "vintageOp": "2020-2022",
+    "countryProject": "Brazil",
+    "techProject": "REDD+"
+  },
+  "precio": 4,
+  "versusPrice": 3,
+  "quantity": 500,
+  "delivery": "Pending",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-27T15:01:48.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:01:48.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "667d8c57a415413e0202a0c2"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "GREENIPATH AG",
+  "proyecto": {
+    "$oid": "6628d6f9071179620f25e084"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "La Cascada (Abejorral) - La Sociedad Generadora La Cascada S.A.S. E.S.P",
+    "vintageOp": "2024",
+    "countryProject": "Colombia",
+    "techProject": "Small Hydro"
+  },
+  "precio": 0.9,
+  "versusPrice": 0.65,
+  "quantity": 1200,
+  "delivery": "Pending",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-06-27T15:59:19.117Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:59:19.117Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "668c14cf2b04463bc8660b91"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "NeutralX",
+  "proyecto": {
+    "$oid": "656f560e2661908a420cab27"
+  },
+  "projectData": {
+    "idProject": "114",
+    "standardOp": "CERCARBONO",
+    "nameProject": "PROYECTO REDD+ PAZCÍFICO SUR",
+    "vintageOp": "2018",
+    "countryProject": "Colombia",
+    "techProject": "REDD+"
+  },
+  "precio": 3.04,
+  "versusPrice": 3,
+  "quantity": 3000,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-07-08T16:33:19.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T10:45:56.978Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6694f949feef20d96cfbfaa6"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "NeutralX",
+  "proyecto": {
+    "$oid": "65cf2c82e54af3c7eb4afd57"
+  },
+  "projectData": {
+    "idProject": "130",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Rio Jacareacanga REDD+ Project",
+    "vintageOp": "2020-2022",
+    "countryProject": "Brazil",
+    "techProject": "REDD+"
+  },
+  "precio": 3.21,
+  "versusPrice": 2.92,
+  "quantity": 5000,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-07-15T10:26:17.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T10:26:17.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "669a780494254e39bc32a0af"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Compañía Envasadora del Atlántico S.A.S",
+  "proyecto": {
+    "$oid": "6628cd6a036238ba04b09851"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "La Cascada (Abejorral) - La Sociedad Generadora La Cascada S.A.S. E.S.P",
+    "vintageOp": "2023",
+    "countryProject": "Colombia"
+  },
+  "precio": 2,
+  "quantity": 869,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-07-19T14:28:20.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T14:28:20.462Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "669a798894254e39bc32a0d6"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Reforestum",
+  "proyecto": {
+    "$oid": "65ddb8b2e741bf48bfb0a255"
+  },
+  "projectData": {
+    "idProject": "1650",
+    "standardOp": "VCS",
+    "nameProject": "Keo Seima Wildlife Sanctuary ",
+    "vintageOp": "2017",
+    "countryProject": "Cambodia"
+  },
+  "precio": 4.6,
+  "quantity": 190,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-07-19T14:34:48.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T14:34:48.930Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66a91b685c65ac1cef7a12e8"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "EDF Colombia S.A.S",
+  "proyecto": {
+    "$oid": "65c21ac2fde578cbfe82cf41"
+  },
+  "projectData": {
+    "idProject": "3448",
+    "standardOp": "VCS",
+    "nameProject": "MARCA CARIACICA LANDFILL",
+    "vintageOp": "2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4.3,
+  "versusPrice": 4,
+  "quantity": 7000,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Done",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-07-30T16:57:12.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T16:58:11.841Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66a928a5a26043cad7564000"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "TRENDIER COLOMBIA S.A.S.",
+  "proyecto": {
+    "$oid": "65783d64f29c48ecaab1e504"
+  },
+  "projectData": {
+    "idProject": "981",
+    "standardOp": "VCS",
+    "nameProject": "PACAJAI REDD+ PROJECT",
+    "vintageOp": "2012",
+    "countryProject": "Brazil",
+    "techProject": "REDD+"
+  },
+  "precio": 2.8,
+  "versusPrice": 1.5,
+  "quantity": 319,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-08-09T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-10T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-07-30T17:53:41.735Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T17:54:04.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66b22a9863f8f2009849f31a"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Climate Trade SL",
+  "proyecto": {
+    "$oid": "656da54e88f61042ee9b74dc"
+  },
+  "projectData": {
+    "idProject": "490",
+    "standardOp": "CDM",
+    "nameProject": "Catalytic N2O destruction project in the tail gas of the Nitric Acid Plant of Abu Qir Fertilizer Co.",
+    "vintageOp": "2020",
+    "countryProject": "Egypt",
+    "techProject": "N20 destrutction"
+  },
+  "precio": 0.94,
+  "versusPrice": 2.05,
+  "quantity": 6078,
+  "delivery": "Done",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-08-15T00:00:00Z"
+  },
+  "detalles": "credtiso por la plataforma ",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-08-06T13:52:24.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T13:52:58.443Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66b6382285582065db482b78"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "ACT Commodities",
+  "proyecto": {
+    "$oid": "6628cd6a036238ba04b09851"
+  },
+  "projectData": {
+    "idProject": "N/A",
+    "standardOp": "I-RECs",
+    "nameProject": "La Cascada (Abejorral) - La Sociedad Generadora La Cascada S.A.S. E.S.P",
+    "vintageOp": "2023",
+    "countryProject": "Colombia",
+    "techProject": "Small Hydro"
+  },
+  "precio": 0.75,
+  "versusPrice": 0.525,
+  "quantity": 1616,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-12-01T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-12-10T00:00:00Z"
+  },
+  "detalles": "Vintage: H2-2023",
+  "archivos": [
+    "https://allcot-inventary.s3.amazonaws.com/ACT FIRM BID GENMASgz0sr.PNG"
+  ],
+  "createdAt": {
+    "$date": "2024-08-09T15:39:14.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T07:45:26.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66ba10ac7df54a18305ba19d"
+  },
+  "transaction": "Sale",
+  "equipo": "Corporate",
+  "cliente": "Petrotech",
+  "proyecto": {
+    "$oid": "656ee5c045f587215f1f2e46"
+  },
+  "projectData": {
+    "idProject": "109",
+    "standardOp": "CERCARBONO",
+    "nameProject": "Los Llanos",
+    "vintageOp": "2020",
+    "countryProject": "Colombia"
+  },
+  "precio": 4.59,
+  "quantity": 245,
+  "delivery": "Pending",
+  "payment": "Pending",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-08-12T13:39:56.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:40:17.886Z"
+  },
+  "__v": 0,
+  "deliveryDate": null,
+  "detalles": "",
+  "paymentDate": null,
+  "versusPrice": null
+},{
+  "_id": {
+    "$oid": "66bf0e0afef94ac3c2fab08a"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "VALORES GLOBAL",
+  "proyecto": {
+    "$oid": "664b1d20e5ec3b62d726527b"
+  },
+  "projectData": {
+    "idProject": "2603",
+    "standardOp": "VCS",
+    "nameProject": "COMPOSTING OF ORGANIC WASTE PROJECT IN GUANGXI",
+    "vintageOp": "2022",
+    "countryProject": "China",
+    "techProject": "Waste to compost"
+  },
+  "precio": 2.15,
+  "versusPrice": 1.9,
+  "quantity": 442,
+  "delivery": "Pending",
+  "deliveryDate": null,
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-08-16T08:30:03.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T08:38:08.311Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66c8608ca0a739de573e1f67"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Evolution Markets Inc.",
+  "proyecto": {
+    "$oid": "65c21ac2fde578cbfe82cf41"
+  },
+  "projectData": {
+    "idProject": "3448",
+    "standardOp": "VCS",
+    "nameProject": "MARCA CARIACICA LANDFILL",
+    "vintageOp": "2023",
+    "countryProject": "Brazil",
+    "techProject": "Landfill gas"
+  },
+  "precio": 4.95,
+  "versusPrice": 4.5,
+  "quantity": 20000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-11-30T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": null,
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-08-23T10:12:28.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T10:12:28.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66d58ff18a28814f9e509f43"
+  },
+  "transaction": "Sale",
+  "equipo": "Trading",
+  "cliente": "Evolution Markets Inc.",
+  "proyecto": {
+    "$oid": "664b1d20e5ec3b62d726527b"
+  },
+  "projectData": {
+    "idProject": "2603",
+    "standardOp": "VCS",
+    "nameProject": "COMPOSTING OF ORGANIC WASTE PROJECT IN GUANGXI",
+    "vintageOp": "2022",
+    "countryProject": "China",
+    "techProject": "Waste to compost"
+  },
+  "precio": 1.45,
+  "versusPrice": 1.3,
+  "quantity": 7000,
+  "delivery": "Pending",
+  "deliveryDate": {
+    "$date": "2024-09-10T00:00:00Z"
+  },
+  "payment": "Pending",
+  "paymentDate": {
+    "$date": "2024-09-13T00:00:00Z"
+  },
+  "detalles": "",
+  "archivos": [],
+  "createdAt": {
+    "$date": "2024-09-02T10:14:09.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T12:49:42.416Z"
+  },
+  "__v": 0
+}]

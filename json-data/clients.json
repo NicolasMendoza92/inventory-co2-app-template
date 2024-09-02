@@ -1,0 +1,5236 @@
+[{
+  "_id": {
+    "$oid": "656369a6d564dadb520a360b"
+  },
+  "nombreCliente": "Element Markets Emissions, LLC",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-004 1001948 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a360c"
+  },
+  "nombreCliente": "BP Integrated Supply & Trading (BP Ist)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-005 1000161 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3610"
+  },
+  "nombreCliente": "Merrill Lynch Commodities Inc",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-009 1003518 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3618"
+  },
+  "nombreCliente": "CMI Corporacion Multi Inversiones",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Guatemala",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-017 1003280 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a361b"
+  },
+  "nombreCliente": "Genneia S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Argentina",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-020 1006236 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3623"
+  },
+  "nombreCliente": "ACCIONA",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-028 1003314 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3627"
+  },
+  "nombreCliente": "FIRENZE ENEERGÉTICA S.A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-032 1003491 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3629"
+  },
+  "nombreCliente": "Carbon Trade Exchange Ltd (CTX)",
+  "mainContact": "Jennifer",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-034 1000344 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3631"
+  },
+  "nombreCliente": "The Pure Project",
+  "mainContact": "Aurelien",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-044 1006059 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3634"
+  },
+  "nombreCliente": "Bitgreen Carbon Assets Management Pte.Lt d",
+  "mainContact": "Sammi",
+  "contacto": "-",
+  "paisCliente": "China",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-047 1003576 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3636"
+  },
+  "nombreCliente": "CarbonBetter, LLC",
+  "mainContact": "Patrick",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-049 1005066 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3637"
+  },
+  "nombreCliente": "Carbotrader Assessoria E Consultoria Em Energia Ltda",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-050 1000235 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3639"
+  },
+  "nombreCliente": "GreenEnergy GPO, LLC",
+  "mainContact": "Lana",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-052 1003834 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a363b"
+  },
+  "nombreCliente": "TheHut.com Limited",
+  "mainContact": "Hannah Thomsen",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-054 1006061 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a363f"
+  },
+  "nombreCliente": "CDR PEDREIRA - CENTRO DE DISPOSIÇÃO DE R ESÍDUOS S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-058 1006223 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3640"
+  },
+  "nombreCliente": "Hartree Partners (UK) Limited",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-060 1001324 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a364b"
+  },
+  "nombreCliente": "TRAFIGURA TRADING LLC",
+  "mainContact": "Aleksi",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-071 1006079 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3650"
+  },
+  "nombreCliente": "Count Energy Trading B.V",
+  "mainContact": "Ricardo Sousa",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-076 1007011 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3656"
+  },
+  "nombreCliente": "Kdm Energia S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-084 1000719 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3658"
+  },
+  "nombreCliente": "Tricorona Climate Partner AB",
+  "mainContact": "christian.patay@tricorona.se",
+  "contacto": "-",
+  "paisCliente": "Sweden",
+  "tipoCliente": "Plataform",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-086 1003699 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a365e"
+  },
+  "nombreCliente": "Elbow River Marketing LTD",
+  "mainContact": "Chelsea y Olivia",
+  "contacto": "-",
+  "paisCliente": "Canada",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-093 1003577 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3660"
+  },
+  "nombreCliente": "Alba S.A. (Transantartic Group)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-095 1000051 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3667"
+  },
+  "nombreCliente": "LATIN CHECKOUT SAS",
+  "mainContact": "acorrea@latincheckout.com",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-102 1003886 Alexis"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3668"
+  },
+  "nombreCliente": "Ostrom Climate Solutions (Canada) INC.",
+  "mainContact": "phil.cull@ostromclimate.com",
+  "contacto": "-",
+  "paisCliente": "Canada",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-103 1006336 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a366c"
+  },
+  "nombreCliente": "Smartest Energy Ltd.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-107 1006099 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a366e"
+  },
+  "nombreCliente": "Masa&Stork",
+  "mainContact": "Sandra",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-109 1007054 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3670"
+  },
+  "nombreCliente": "Chevron Products Company",
+  "mainContact": "Sunaryo Hendri",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-111 1000366 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3671"
+  },
+  "nombreCliente": "Xantia Xamuels",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-112 1001121 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3674"
+  },
+  "nombreCliente": "Moss Amazonia SA",
+  "mainContact": "Felipe",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-115 1006528 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3677"
+  },
+  "nombreCliente": "Votorantim Energia",
+  "mainContact": "jose.amato@venergia.com.br",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-118 1006478 Nico B"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3678"
+  },
+  "nombreCliente": "Tata Power Trading Company Limited Carbon Consultancy",
+  "mainContact": "Himanshu",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-119 1006411 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a360f"
+  },
+  "nombreCliente": "GREENOXX SOCIEDAD CIVIL",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Uruguay",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-008 1003357 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3683"
+  },
+  "nombreCliente": "ECOPATRIMONIO S.L.U.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-131 1003428 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3686"
+  },
+  "nombreCliente": "BDS Group (Bufet desarrollo sostenible)",
+  "mainContact": "sarteaga@bdsgroup.co",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-134 1006474 Nadia M"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3611"
+  },
+  "nombreCliente": "GO2-Markets GmbH",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-010 1001772 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3689"
+  },
+  "nombreCliente": "Viridios Capital Pty Ltd",
+  "mainContact": "domenic@viridioscapital.com",
+  "contacto": "-",
+  "paisCliente": "Australia",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-137 1006727 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a368e"
+  },
+  "nombreCliente": "Summit Energy Services, Inc.",
+  "mainContact": "Jordan",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-143 1006784 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3616"
+  },
+  "nombreCliente": "Infinite Environmental Solutions LLP",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-015 1004123 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3694"
+  },
+  "nombreCliente": "Karbone",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-150 1004140 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3617"
+  },
+  "nombreCliente": "ACT Commodities",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Netherlands",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-016 1003420 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3696"
+  },
+  "nombreCliente": "TR Advisers Limited (Cadogan Commodities)",
+  "mainContact": "Thierry",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-153 1006098 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3625"
+  },
+  "nombreCliente": "C-Quest Capital",
+  "mainContact": "cyang@cquestcapital.com",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-030 1003772 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3628"
+  },
+  "nombreCliente": "BME Energia S.A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-033 1006235 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3699"
+  },
+  "nombreCliente": "One Carbon GmbH",
+  "mainContact": "Klaus",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-160 1006452 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a362a"
+  },
+  "nombreCliente": "Celulosa Arauco y Constitución S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-035 1003268 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a369a"
+  },
+  "nombreCliente": "CleanWorld AS",
+  "mainContact": "Erick Bottino",
+  "contacto": "-",
+  "paisCliente": "Norway",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-162 1006870 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3635"
+  },
+  "nombreCliente": "CPFL Renováveis S.A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-048 1003621 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a369d"
+  },
+  "nombreCliente": "Amerex Brokers LLC",
+  "mainContact": "Nicholas",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-169 1003726 Tomas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a363a"
+  },
+  "nombreCliente": "SWEEP S.A.S",
+  "mainContact": "mlerville@sweep.net",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-053 1006089 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a369f"
+  },
+  "nombreCliente": "Ammper",
+  "mainContact": "daniela",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Trading",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-183 1006624 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3644"
+  },
+  "nombreCliente": "Nvalue AG",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-064 1006048 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a1"
+  },
+  "nombreCliente": "Clear Sky Ltd",
+  "mainContact": "Eamon",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-208 1007390 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a364c"
+  },
+  "nombreCliente": "Carbon Climate Protection GmbH (Carbon Austria)",
+  "mainContact": "Gerald Dunkel",
+  "contacto": "-",
+  "paisCliente": "Austria",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-072 1005056 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ae"
+  },
+  "nombreCliente": "GFS Consulting",
+  "mainContact": "Gianluca",
+  "contacto": "-",
+  "paisCliente": "Italy",
+  "tipoCliente": "Broker",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-303 1006731 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b0"
+  },
+  "nombreCliente": "Bower Collective",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-306 1007043 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a364d"
+  },
+  "nombreCliente": "Interstate Gas Supply Inc",
+  "mainContact": "Lauren.Atkin",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-073 1003679 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b1"
+  },
+  "nombreCliente": "Watershed Climate",
+  "mainContact": "Curtis",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-307 1007065 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a364e"
+  },
+  "nombreCliente": "Belektron Ekotrading D.O.O",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Slovenia",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-074 1000141 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b9"
+  },
+  "nombreCliente": "Taxi Class",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-328 1006512 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36bc"
+  },
+  "nombreCliente": "FOZ DO CHAPECÓ ENERGIA S.A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-336 1001886 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a364f"
+  },
+  "nombreCliente": "ORTADOĞU ENERJİ SAN. VE TİC. A.Ş.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Turkey",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-075 1006084 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3651"
+  },
+  "nombreCliente": "Pronatura México A.C.",
+  "mainContact": "Karina Leal",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-077 1005772 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c9"
+  },
+  "nombreCliente": "EPM",
+  "mainContact": "Gloria",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-390 1007783 Nicolás"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d4"
+  },
+  "nombreCliente": "TRG MANAGEMENT LP/ Balam Fund",
+  "mainContact": "Daniel",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-485 1008433 Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3655"
+  },
+  "nombreCliente": "Comasa S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-083 1000258 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3664"
+  },
+  "nombreCliente": "RWE Supply & Trading GMBH",
+  "mainContact": "kirsten.lefter",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-099 1006092 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d8"
+  },
+  "nombreCliente": "Transportempo",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-506 1005998 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36dc"
+  },
+  "nombreCliente": "AUREN COMERCIALIZADORA DE ENERGIA LTDA",
+  "mainContact": "jose.amato@aurenenergia.com.br",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-542 1008146 Nico B"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3666"
+  },
+  "nombreCliente": "Pact Capital AG",
+  "mainContact": "constantin",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-101 1006080 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3669"
+  },
+  "nombreCliente": "Certifications Zero Carbone S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-104 1006428 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36de"
+  },
+  "nombreCliente": "Brascarbon Consultoria Projetos E Repres entação S A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-545 1000157 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e0"
+  },
+  "nombreCliente": "BLOCKC TECNOLOGIA E GESTAO S.A. (EQAO)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-553 1007956 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a366a"
+  },
+  "nombreCliente": "EDF Colombia S.A.S",
+  "mainContact": "Fabien",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-105 1006668 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a366b"
+  },
+  "nombreCliente": "Ecompensate OÜ",
+  "mainContact": "Ruben Ortiz",
+  "contacto": "-",
+  "paisCliente": "Estonia",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-106 1003854 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e4"
+  },
+  "nombreCliente": "Cooperativa Ambio (Plan vivo)",
+  "mainContact": "scolelte.ventas@gmail.com",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-580 1008616 Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ec"
+  },
+  "nombreCliente": "Yanbal de Colombia S.A.S",
+  "mainContact": "Liseth.Barahona@yanbal.com",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-629 1008853 William"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a366f"
+  },
+  "nombreCliente": "ClimeTrek",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-110 1009485 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3672"
+  },
+  "nombreCliente": "FORESTRY CONSULTING GROUP SAS",
+  "mainContact": "paulo.hernandez@fcgsas.com",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-113 1008696 Alexis"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ed"
+  },
+  "nombreCliente": "Carbon Technologies Limited",
+  "mainContact": "mihai.hrimiuc@carbonbase.co",
+  "contacto": "-",
+  "paisCliente": "China",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-631 1001494 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f9"
+  },
+  "nombreCliente": "CCC Consultancy LLC",
+  "mainContact": "mario@carbonconsultco.com",
+  "contacto": "-",
+  "paisCliente": "Emirates Arabes Unidos",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-686 1008997 Emanuel"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a367d"
+  },
+  "nombreCliente": "GOCLIMATENEUTRAL SWEDEN AB.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Sweden",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-125 1003323 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a367e"
+  },
+  "nombreCliente": "Vertis Environmental Finance",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Hungary",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-126 1001101 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36fb"
+  },
+  "nombreCliente": "Matrix Renewable Colombia S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-698 1003319 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36fe"
+  },
+  "nombreCliente": "Latin America Power",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-702 1003105 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a367f"
+  },
+  "nombreCliente": "Exclusive Aircraft Sales Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-127 1002807 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3701"
+  },
+  "nombreCliente": "CERATIZIT MEXICO SA DE CV",
+  "mainContact": "Ricardo.Sanchez@ceratizit.com",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-711 1009216 Mercedes"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3681"
+  },
+  "nombreCliente": "Servibat",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-129 1003039 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3702"
+  },
+  "nombreCliente": "Renting Colombia",
+  "mainContact": "jmontoyaz@rentingcolombia.com",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-721 1005786 William"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3682"
+  },
+  "nombreCliente": "Veloce Racing",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-130 1001598 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3704"
+  },
+  "nombreCliente": "GTI 10 Bosques I LLC",
+  "mainContact": "paula.sanchez@campocapital.com",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-736 1009300 Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a370f"
+  },
+  "nombreCliente": "GUAMÁ TRATAMENTO DE RESÍDUOS LTDA",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-814  "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3687"
+  },
+  "nombreCliente": "MexiCO2 (SIF ICAP)",
+  "mainContact": "aflores@mexico2.com.mx",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-135 1006664 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3710"
+  },
+  "nombreCliente": "KPMG CARDENAS DOSAL SC",
+  "mainContact": "fernandaespinosa@kpmg.com.mx",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-817 1009902 William"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3688"
+  },
+  "nombreCliente": "Fundación Ecotropics Colombia",
+  "mainContact": "Arturo",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-136 1006717 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a368c"
+  },
+  "nombreCliente": "BKS CARBON CONSULTING PRIVATE LIMITED",
+  "mainContact": "Sunil",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-140 1006734 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a368f"
+  },
+  "nombreCliente": "Macht Limited",
+  "mainContact": "Benjamin",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-144 1003831 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3697"
+  },
+  "nombreCliente": "IVG Energy, Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-155 1001988 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3698"
+  },
+  "nombreCliente": "Advantag GmbH",
+  "mainContact": "Raik",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-159 1006469 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a369e"
+  },
+  "nombreCliente": "Tasman Environmental Markets Pty Ltd",
+  "mainContact": "alexander@tem.com.au",
+  "contacto": "-",
+  "paisCliente": "Australia",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-178 1007028 Tomas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a0"
+  },
+  "nombreCliente": "ClearBlue Markets",
+  "mainContact": "ngirod@clearbluemarkets.com",
+  "contacto": "-",
+  "paisCliente": "Netherlands",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-207 1008087 Tomas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a4"
+  },
+  "nombreCliente": "Mt.Stonegate Green Asset Management",
+  "mainContact": "Albert Sutanto",
+  "contacto": "-",
+  "paisCliente": "China",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-248 1006064 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ad"
+  },
+  "nombreCliente": "C NEUTRAL",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-301 1001954 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b2"
+  },
+  "nombreCliente": "PetStar",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-309 1007071 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ba"
+  },
+  "nombreCliente": "AES Colombia & CIA S.C.A E.S.P.",
+  "mainContact": "Jhon y José David",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-330 1003483 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c1"
+  },
+  "nombreCliente": "Veolia Holding Colombia S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-358 1001103 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c3"
+  },
+  "nombreCliente": "Asociación de Bancos México ABM, A.C",
+  "mainContact": "ldesilva@abm.org.mx",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-361 1007262 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c5"
+  },
+  "nombreCliente": "ECOHZ AS",
+  "mainContact": "adrien.mathys@ecohz.com",
+  "contacto": "-",
+  "paisCliente": "Norway",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-377 1000457 Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c7"
+  },
+  "nombreCliente": "Allcot Sport & Tech",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Suiza",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-384 1007978 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36cc"
+  },
+  "nombreCliente": "Harrison Renewable Energy, LLC",
+  "mainContact": "nguyen.tt.hue@gmail.com",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-423 1007414 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d1"
+  },
+  "nombreCliente": "Goldenlink Viet Nam Trading Company Limited",
+  "mainContact": "info@goldenlinkvn.com",
+  "contacto": "-",
+  "paisCliente": "Vietnam",
+  "tipoCliente": "Trading",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-464 1007910 Nadhira"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d2"
+  },
+  "nombreCliente": "Aures Bajo",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-477 1000080 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d6"
+  },
+  "nombreCliente": "Ingenio Providencia S.A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Argentina",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-504 1002921 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d9"
+  },
+  "nombreCliente": "Climate Guardian",
+  "mainContact": "offset@planetalindo.com",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-511 1008048 Emanuel"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e2"
+  },
+  "nombreCliente": "Gansu Ruicarbon Technology Consulting Co., Ltd.",
+  "mainContact": "nemo@ruicarbon.com",
+  "contacto": "-",
+  "paisCliente": "China",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-565 1008250 Nadhira"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e5"
+  },
+  "nombreCliente": "Wellspring Philanthropic Fund, Inc.",
+  "mainContact": "mconner@wpfund.org",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-586 1008427 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e6"
+  },
+  "nombreCliente": "ProCaffe",
+  "mainContact": "v.manfroi@procaffe.it",
+  "contacto": "-",
+  "paisCliente": "Italy",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-591 1008501 NAdia"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e9"
+  },
+  "nombreCliente": "Holborn Trading",
+  "mainContact": "g.lambert@holborntrading.com",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-598 1008546 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f2"
+  },
+  "nombreCliente": "Plastic Industry Development Center PIDC ",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Taiwan",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-651 1008916 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f3"
+  },
+  "nombreCliente": "SERENGETI ENERGY LIMITED",
+  "mainContact": "brian.kimani@serengetienergy.com",
+  "contacto": "-",
+  "paisCliente": "Mauricio",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-653 1008985 Nicolas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f4"
+  },
+  "nombreCliente": "Enel Mexico",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-660 1002878 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36fd"
+  },
+  "nombreCliente": "WinCL Inc",
+  "mainContact": "frank.yoon@wincl.io",
+  "contacto": "-",
+  "paisCliente": "South Korea ",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-701 1009059 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3700"
+  },
+  "nombreCliente": "EUROPA MUNDO VACACIONES S.L.U",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-709 1008923 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3703"
+  },
+  "nombreCliente": "LOC Partners, LLC",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-722 1009173 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3707"
+  },
+  "nombreCliente": "Empresa electrica aguas del Melado spa",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Guatemala",
+  "tipoCliente": "Project Owner",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-740 1002825 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a370e"
+  },
+  "nombreCliente": "FERRER THERAPEUTICS SA DE CV",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-776 1008999 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3712"
+  },
+  "nombreCliente": "GREEN EARTH SOLUTIONS (Treegacy)",
+  "mainContact": "juan@treegacy.com",
+  "contacto": "-",
+  "paisCliente": "Panama",
+  "tipoCliente": "consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-834 1009795 Mary"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3714"
+  },
+  "nombreCliente": "EETS Co Ltd",
+  "mainContact": "khj@tantancarbon.com",
+  "contacto": "-",
+  "paisCliente": "South Korea",
+  "tipoCliente": "consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-843 1009832 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3608"
+  },
+  "nombreCliente": "Carbon Financial Services Pty Ltd (CBL Markets)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T16:15:31.935Z"
+  },
+  "comentarios": "CL-001 1000237 \n\nCDM account \nName: Carbon Financial Services Pty. Ltd. \nNumber: AU-100-2321\n\nGS Account \n1053773"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a360a"
+  },
+  "nombreCliente": "Emergent Ventures International Pte Ltd",
+  "mainContact": "Jatin",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-003 1005047 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3612"
+  },
+  "nombreCliente": "Pavilion Energy Trading & Supply Pte. Lt d.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Singapore",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-011 1006040 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3613"
+  },
+  "nombreCliente": "Green Story Inc.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Canada",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-012 1005053 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3615"
+  },
+  "nombreCliente": "Fathom Energy LLC",
+  "mainContact": "Jack",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-014 1003557 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3619"
+  },
+  "nombreCliente": "GREENPRINT HOLDINGS INC",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-018 1003239 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a361a"
+  },
+  "nombreCliente": "EXTREME E LTD",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-019 1007030 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a361c"
+  },
+  "nombreCliente": "Tk'Blue Agency France",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-021 1005818 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a361d"
+  },
+  "nombreCliente": "EDF Trading",
+  "mainContact": "Tania El-Khoury",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T08:06:18.895Z"
+  },
+  "comentarios": "CL-022 1003519 --- VERRA Account Holder ID: 1085"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a361e"
+  },
+  "nombreCliente": "EKI Energy Services Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-023 1002849 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3620"
+  },
+  "nombreCliente": "Enen Green",
+  "mainContact": "Mike",
+  "contacto": "-",
+  "paisCliente": "India",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-025 1003965 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3622"
+  },
+  "nombreCliente": "Mercuria Energy America, LLC",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-027 1002056 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3624"
+  },
+  "nombreCliente": "Genomma Lab Internacional",
+  "mainContact": "Fernanda Aguilar",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-029 1001881 Nadia M"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3626"
+  },
+  "nombreCliente": "Orizon Valoriçao Resíduos",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-031 1006069 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a362b"
+  },
+  "nombreCliente": "Schneider Electric",
+  "mainContact": "Erika",
+  "contacto": "-",
+  "paisCliente": "Italy",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-036 1006024 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a362c"
+  },
+  "nombreCliente": "Empresa de Generación Huallaga S.A",
+  "mainContact": "Lei Zhang",
+  "contacto": "-",
+  "paisCliente": "Peru",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-038 1002067 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a362e"
+  },
+  "nombreCliente": "ClimatePartner GmbH",
+  "mainContact": "Priscilla Nunnari",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-041 1003506 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a362f"
+  },
+  "nombreCliente": "Keko FZ-LLC",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Arab Emirates",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-042 1003424 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3633"
+  },
+  "nombreCliente": "STX Commodities B.V.",
+  "mainContact": "Venicius /sofi",
+  "contacto": "-",
+  "paisCliente": "Netherlands",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-04T18:28:13.701Z"
+  },
+  "comentarios": "CL-046 1006065 \nCuenta CDM : NL-121-335-0-97 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3638"
+  },
+  "nombreCliente": "Derichebourg Propreté",
+  "mainContact": "Delphine Esculier",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-051 1003663 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a363d"
+  },
+  "nombreCliente": "Consorcio Santa Marta S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-056 1000289 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3643"
+  },
+  "nombreCliente": "Cargill International SA",
+  "mainContact": "Fabian",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-063 1003500 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3648"
+  },
+  "nombreCliente": "Formula E Operations Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-068 1000564 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3652"
+  },
+  "nombreCliente": "Anthesis Lavola",
+  "mainContact": "Miquel.Rubio@anthesisgroup.com",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-078 1003465 Nadia M"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3653"
+  },
+  "nombreCliente": "TRENDIER COLOMBIA S.A.S.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-079 1002057 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3657"
+  },
+  "nombreCliente": "Noracid S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-085 1005984 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a365b"
+  },
+  "nombreCliente": "HOLT GLOBAL GROUP INTERNATIONAL AG",
+  "mainContact": "Leila",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-089 1003881 financial "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a365f"
+  },
+  "nombreCliente": "Bolsa De Clima De Santiago S.A - SCX",
+  "mainContact": "Verónica y Aldo",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-094 1002742 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3661"
+  },
+  "nombreCliente": "Parque Eólico El Arrayán Spa (Arco, Grup o Arroyo)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-096 1005770 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3665"
+  },
+  "nombreCliente": "ClimeCo LLC",
+  "mainContact": "Dan Linsky",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-100 1003887 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3673"
+  },
+  "nombreCliente": "Comercial Carbono SA",
+  "mainContact": "Patricia Merola",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-114 1006522 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a367a"
+  },
+  "nombreCliente": "KALLPA GENERACIÓN S.A",
+  "mainContact": "Ana Gabriela Farfán",
+  "contacto": "-",
+  "paisCliente": "Peru",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-122 1003851 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a367b"
+  },
+  "nombreCliente": "FUNDACIÓN CATARUBEN",
+  "mainContact": "compensave@cataruben.org",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-123 1002643 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a367c"
+  },
+  "nombreCliente": "PUMA ENERGY COLOMBIA COMBUSTIBLES S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-124 1005771 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3684"
+  },
+  "nombreCliente": "Regreen Gmbh",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Austria",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-132 1005788 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a368a"
+  },
+  "nombreCliente": "PA Research & Consultants",
+  "mainContact": "Pchand <pchand@pars-consultants.com",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-138 1006729 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a368b"
+  },
+  "nombreCliente": "CENTRAL DE TRATAMENTO DE RESIDUOS NOVA I GUACU S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-139 1003228 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a368d"
+  },
+  "nombreCliente": "The Carbon Sink SAS",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Uruguay",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-141 1001169 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3691"
+  },
+  "nombreCliente": "PNZ- PROJECT NET ZERO",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Arab Emirates",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-146 1005065 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3692"
+  },
+  "nombreCliente": "Commerg Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Malta",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-147 1006237 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3693"
+  },
+  "nombreCliente": "Emstream Limited",
+  "mainContact": "Melissa Lindsay",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-148 1003821 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3695"
+  },
+  "nombreCliente": "Tullett Prebon Americas Corp",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-152 1001986 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a369b"
+  },
+  "nombreCliente": "Shell Trading International Limited",
+  "mainContact": "Neil.Raichura@shell.com",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-166 1005991 Alexis"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a6"
+  },
+  "nombreCliente": "SCB BROKERS SA",
+  "mainContact": "Clement@starcb.com",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-270 1006025 Mary"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a7"
+  },
+  "nombreCliente": "Kinect Energy Green Services AS",
+  "mainContact": "Bertrand y Benjamin",
+  "contacto": "-",
+  "paisCliente": "Norway",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-280 1001903 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a8"
+  },
+  "nombreCliente": "CO2 CARDS ltd.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Bulgaria",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-284  "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36aa"
+  },
+  "nombreCliente": "CENTRAL DE TRATAMENTO DE RESÍDUOS ALCÂNTARA S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-286 1003226 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ab"
+  },
+  "nombreCliente": "SQUAKE.earth GmbH",
+  "mainContact": "Antonia",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-295 1006750 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b4"
+  },
+  "nombreCliente": "Fenix Carbon",
+  "mainContact": "shaun@fenixcarbon.com",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-313 1006432 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b5"
+  },
+  "nombreCliente": "Terra Commodities Broker",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-317 1007099 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b7"
+  },
+  "nombreCliente": "Bolsa Mexicana de valores",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-319 1007113 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b8"
+  },
+  "nombreCliente": "BaiaBella",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-320 1003478 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36bb"
+  },
+  "nombreCliente": "UPM Umwelt-Projekt-Management GmbH",
+  "mainContact": "rwestermann@upm-cdm.eu",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-332 1007213 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c4"
+  },
+  "nombreCliente": "CROTALUS Climate Actions S.A.S. de C.V.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-368 1003237 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c8"
+  },
+  "nombreCliente": "ISAGEN S.A. ",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-386 1002919 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36cf"
+  },
+  "nombreCliente": "TIC-Sustentabilidad",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-430 1007847 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d3"
+  },
+  "nombreCliente": "Planet Virtue",
+  "mainContact": "Jack",
+  "contacto": "-",
+  "paisCliente": "Ireland",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-484 1008175 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d5"
+  },
+  "nombreCliente": "Yanbal Ecuador SA",
+  "mainContact": "Claudia",
+  "contacto": "-",
+  "paisCliente": "Ecuador",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-486 1008140 Nadia M"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d7"
+  },
+  "nombreCliente": "Ingenio del Cauca S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-505 1002923 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e1"
+  },
+  "nombreCliente": "Pan Ocean ",
+  "mainContact": "Seyi",
+  "contacto": "-",
+  "paisCliente": "Nigeria",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-563 1006808 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e8"
+  },
+  "nombreCliente": "Mahindra Racing",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-597 1003251 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36eb"
+  },
+  "nombreCliente": "Volaris",
+  "mainContact": "ximena.fuentes@volaris.com",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-608 1008980 Mercedes"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ef"
+  },
+  "nombreCliente": "Pepsico",
+  "mainContact": "Grace.Allison@pepsico.com",
+  "contacto": "-",
+  "paisCliente": "Ireland",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-645 1008806 Mercedes"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f0"
+  },
+  "nombreCliente": "Avianca",
+  "mainContact": "david.pinzon@avianca.com",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-649 1000147 William"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f7"
+  },
+  "nombreCliente": "Enel Centroamerica (Enel Fortuna SA)",
+  "mainContact": "hyara.apolayo@enel.com",
+  "contacto": "-",
+  "paisCliente": "Guatemala",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-680  Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3609"
+  },
+  "nombreCliente": "ComBio Energias renováveis",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-002 1006226 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a360d"
+  },
+  "nombreCliente": "GNR FORTALEZA VALORIZACAO DE BIOGAS LTDA",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-006 1003359 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a360e"
+  },
+  "nombreCliente": "NE Climate A/S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Denmark",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-007 1006012 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3614"
+  },
+  "nombreCliente": "Evolution Markets Inc.",
+  "mainContact": "Kellie y Maureen",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-013 1002055 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a361f"
+  },
+  "nombreCliente": "South Pole Carbon Asset Management Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-024 1002051 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3621"
+  },
+  "nombreCliente": "CHINA CARBON N.V.",
+  "mainContact": "Julie",
+  "contacto": "-",
+  "paisCliente": "China",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-026 1001367 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a362d"
+  },
+  "nombreCliente": "ECOPESA AMBIENTAL S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Panama",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-039 1003227 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3630"
+  },
+  "nombreCliente": "Redshaw Advisors Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-043 1006053 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3632"
+  },
+  "nombreCliente": "Ecosphere+",
+  "mainContact": "Lucy ",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-045 1004062 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a363c"
+  },
+  "nombreCliente": "Carbonext Tecnologia em Solucoes Ambientais Ltda",
+  "mainContact": "felipe.viana@carbonext.com.br",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-055 1006140 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a363e"
+  },
+  "nombreCliente": "BIOGAS ENERGIA AMBIENTAL S.A",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-057 1007026 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3641"
+  },
+  "nombreCliente": "Vitol SA",
+  "mainContact": "Michael Ivanovitch",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-061 1002182 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3642"
+  },
+  "nombreCliente": "Aitherco2 A S.P.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T13:15:18.174Z"
+  },
+  "comentarios": "CL-062 1006005  \nVCS - 3124\n\n\n"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3645"
+  },
+  "nombreCliente": "Carbonfund.org Foundation",
+  "mainContact": "Brian",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-065 1003640 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3646"
+  },
+  "nombreCliente": "Central Hidroeléctrica El Edén S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-066 1003396 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3647"
+  },
+  "nombreCliente": "ACX CARBON TREASURY PTE. LTD.",
+  "mainContact": "Emma y Crystal",
+  "contacto": "-",
+  "paisCliente": "Singapore",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-067 1002186 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3649"
+  },
+  "nombreCliente": "Weact Pty.Ltd.",
+  "mainContact": "vivek@weact.com.au",
+  "contacto": "-",
+  "paisCliente": "Australia",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-069 1001118 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a364a"
+  },
+  "nombreCliente": "AFS Energy B.V",
+  "mainContact": "Kasim",
+  "contacto": "-",
+  "paisCliente": "Netherlands",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-070 1006230 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3654"
+  },
+  "nombreCliente": "Electron Investment SA",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Panama",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-082 1003191 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3659"
+  },
+  "nombreCliente": "Ecologi Action Ltd",
+  "mainContact": "sam Jackson\n",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-087 1003867 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a365a"
+  },
+  "nombreCliente": "First Climate Markets AG",
+  "mainContact": "Sofia",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-088 1003586 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a365c"
+  },
+  "nombreCliente": "OTC Flow B.V",
+  "mainContact": "Miguel Lopez",
+  "contacto": "-",
+  "paisCliente": "Netherlands",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-090 1006072 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a365d"
+  },
+  "nombreCliente": "3Degrees Group, Inc.",
+  "mainContact": "Stephanie y Katie",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-091 1003603 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3662"
+  },
+  "nombreCliente": "CBL Plataforma",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Plataform",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-097 1000237 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3663"
+  },
+  "nombreCliente": "AXPO INTERNATIONAL SA",
+  "mainContact": "McArthur",
+  "contacto": "-",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-098 1003875 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a366d"
+  },
+  "nombreCliente": "Renovalia Energy S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-108 1007027 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3675"
+  },
+  "nombreCliente": "LehmanBush (HK) Limited",
+  "mainContact": "James Jenkinson",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-116 1007029 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3676"
+  },
+  "nombreCliente": "Climate Trade SL",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-117 1002470 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3679"
+  },
+  "nombreCliente": "Glencore Singapore Pte. Ltd.",
+  "mainContact": "Tomas y Misha",
+  "contacto": "-",
+  "paisCliente": "Singapore",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-121 1006077 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3680"
+  },
+  "nombreCliente": "ENGRAW",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Uruguay",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-128 1001316 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3685"
+  },
+  "nombreCliente": "ITOCHU CORPORATION",
+  "mainContact": "Yuya",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-133 1006070 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3690"
+  },
+  "nombreCliente": "ECP Capital LP",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-145 1006802 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a369c"
+  },
+  "nombreCliente": "Timing Carbon Assets Management Co., Ltd.",
+  "mainContact": "Kelly ",
+  "contacto": "-",
+  "paisCliente": "China",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-167 1005809 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a2"
+  },
+  "nombreCliente": "CO2Cero S.A.S",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-209 1000264 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a3"
+  },
+  "nombreCliente": "ECOEYE Company Limited",
+  "mainContact": "Sangsun",
+  "contacto": "-",
+  "paisCliente": "South Korea",
+  "tipoCliente": "Developer",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-214 1007567 Nico B"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a5"
+  },
+  "nombreCliente": "Powerica Limited",
+  "mainContact": "pradeep.gupta@powericaltd.com",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Final",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-260 1009176 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36a9"
+  },
+  "nombreCliente": "CERVEJARIA PETROPOLIS DO CENTRO OESTE LTDA",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-285 1008155 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ac"
+  },
+  "nombreCliente": "Carbon Click",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "New Zeland",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-299 1007069 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36af"
+  },
+  "nombreCliente": "Hive Cleaning Ltd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-305 1007041 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b3"
+  },
+  "nombreCliente": "GUJARAT FLUOROCHEMICALS LIMITED",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-312 1006004 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36b6"
+  },
+  "nombreCliente": "Aurum Bretema SL (CO2 Compensate)",
+  "mainContact": "adonis.iglesias@co2compensa.com",
+  "contacto": "-",
+  "paisCliente": "Spain ",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-318 1007033 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36bd"
+  },
+  "nombreCliente": "FutureCamp Holding GmbH",
+  "mainContact": "dominik.holzner@future-camp.de",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-345 1007336 Tomas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36be"
+  },
+  "nombreCliente": "My Carbon Minervafood",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-347 1007346 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36bf"
+  },
+  "nombreCliente": "YLEM (Biogas Technology Limited)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-351 1008991 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c0"
+  },
+  "nombreCliente": "Evercity",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Germany",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-357 1007514 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c2"
+  },
+  "nombreCliente": "Veolia Aseo Buga S.A E.S.P",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-359 1006901 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36c6"
+  },
+  "nombreCliente": "STONEX COMMODITY SOLUTIONS LLC",
+  "mainContact": "Nithasha.Yakoob@StoneX.com",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-378 1007717 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ca"
+  },
+  "nombreCliente": "Up2You S.r.l. SB",
+  "mainContact": "matteo.molteni@u2y.io",
+  "contacto": "-",
+  "paisCliente": "Italy",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-395 1008563 Mercedes "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36cb"
+  },
+  "nombreCliente": "AGROSUPER S.A",
+  "mainContact": "Magdalena ",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-407 1003756 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36cd"
+  },
+  "nombreCliente": "Onesixth Expeditions Ltd",
+  "mainContact": "Paula Ruggeri pauruggeri@gmail.com",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-428 1009020 Nadia M"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ce"
+  },
+  "nombreCliente": "Kub-Berjaya Enviro Sdn Bhd",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Malaysia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-429 1000730 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36d0"
+  },
+  "nombreCliente": "Empresa de Generación Eléctrica de Junín (LAP)",
+  "mainContact": "ricardo.cisneros@latampower.com",
+  "contacto": "-",
+  "paisCliente": "Peru",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-457 1006725 Nico B"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36da"
+  },
+  "nombreCliente": "ECOSTANCE LLC (net carbons)",
+  "mainContact": "Tony",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-512 1008003 Tomas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36db"
+  },
+  "nombreCliente": "Grupo Ibereolica",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-525 1008694 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36dd"
+  },
+  "nombreCliente": "Risaralda Energía",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-543 1005782 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36df"
+  },
+  "nombreCliente": "Eccaplan Consultoria em Sustentabilidade",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-550 1007204 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e3"
+  },
+  "nombreCliente": "Energía del Sur (EDSSA)",
+  "mainContact": "Jorge y Mario",
+  "contacto": "-",
+  "paisCliente": "Argentina",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-572 1007863 Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36e7"
+  },
+  "nombreCliente": "Krowgroup",
+  "mainContact": "vicki.saunders@krowgroup.com",
+  "contacto": "-",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-596 1008521 Mercedes "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ea"
+  },
+  "nombreCliente": "Chevron Hydel Private Limited",
+  "mainContact": "kanwaruday@gmail.com",
+  "contacto": "-",
+  "paisCliente": "India",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-602 1008668 Nadhira"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ee"
+  },
+  "nombreCliente": "Mercado Ambiental AP S.C.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-632 1008727 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f1"
+  },
+  "nombreCliente": "Veolia Francia",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "France",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-650 1001103 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f5"
+  },
+  "nombreCliente": "Carbon Neutral Plus LLC",
+  "mainContact": "acodrington@carbonneutralplus.com",
+  "contacto": "-",
+  "paisCliente": "United States",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-662 1009334 William"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f6"
+  },
+  "nombreCliente": "SALSIPUEDES SOLAR, SA DE CV",
+  "mainContact": "IAlonso@balamfund.com",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-678 1008905 Nicolas"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36fc"
+  },
+  "nombreCliente": "Matrix Renewable S.L.U",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "España",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-699 1003333 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3705"
+  },
+  "nombreCliente": "Ciudad Juarez LGEP",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "Project Owner",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-738 1001309 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36f8"
+  },
+  "nombreCliente": "Macro Design Studio SRL",
+  "mainContact": "paola.moschini@macrodesignstudio.it",
+  "contacto": "-",
+  "paisCliente": "Italy",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-684 1008942 Monica"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36fa"
+  },
+  "nombreCliente": "ORAZUL ENERGY SOUTHERN CONE S.R.L.",
+  "mainContact": "Alejandra.Kaestner@orazul.com",
+  "contacto": "-",
+  "paisCliente": "Argentina",
+  "tipoCliente": "Consulting",
+  "division": "Sourcing",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-690 1009166 Danna"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a36ff"
+  },
+  "nombreCliente": "Strive (Vertis Madrid)",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Spain",
+  "tipoCliente": "Consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-703 1001101 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3706"
+  },
+  "nombreCliente": "Zone 3 Landfill Gas",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Guatemala",
+  "tipoCliente": "Project Owner",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-739  "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3708"
+  },
+  "nombreCliente": "INTECPLAST INYECCIÓN TÉCNICA DE PLÁSTICOS S.A.S",
+  "mainContact": "sisoga@intecplast.com.co",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-742 1009342 Mercedes"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3709"
+  },
+  "nombreCliente": "Grupo Presidente",
+  "mainContact": "carlosst@mexico2.com.mx",
+  "contacto": "-",
+  "paisCliente": "Mexico",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-744 1009312 Nadia"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a370a"
+  },
+  "nombreCliente": "TARGA SP Z O.O - Hydra Minerals",
+  "mainContact": "e.haidar@hydra-minerals.com",
+  "contacto": "-",
+  "paisCliente": "Poland",
+  "tipoCliente": "consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-755 1009406 Emanuel"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a370c"
+  },
+  "nombreCliente": "CARBON COMMODITY TRADING SERVICE LLC ",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Puerto Rico",
+  "tipoCliente": "consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-760 1009439 Alexis"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3711"
+  },
+  "nombreCliente": "ALSEC ALIMENTOS SECOS SAS ",
+  "mainContact": "Yuleima.durango@alsec.com.co",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-820 1009628 Mary"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a370b"
+  },
+  "nombreCliente": "GRUPO ARGOS S.A.",
+  "mainContact": "-",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-757 1009392 "
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a370d"
+  },
+  "nombreCliente": "Nash fintechX",
+  "mainContact": "nida.khan@nashfintechx.com",
+  "contacto": "-",
+  "paisCliente": "Luxemburgo",
+  "tipoCliente": "consulting",
+  "division": "Trading",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-761 1009483 Rafael"
+},{
+  "_id": {
+    "$oid": "656369a6d564dadb520a3713"
+  },
+  "nombreCliente": "Top Drive Group",
+  "mainContact": "luis.valencia@topdrivegroup.com",
+  "contacto": "-",
+  "paisCliente": "Colombia",
+  "tipoCliente": "consulting",
+  "division": "Corporate",
+  "createdAt": {
+    "$date": "2023-11-24T12:08:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T15:35:51.793Z"
+  },
+  "comentarios": "CL-838 1009761 William"
+},{
+  "_id": {
+    "$oid": "656ee7a545f587215f1f2e60"
+  },
+  "nombreCliente": "Aramco Asia Trading",
+  "mainContact": "yewwei.lee@aramcotrading.sg",
+  "contacto": "Yew Wei ( Kenneth) Lee",
+  "paisCliente": "Singapore",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2023-12-05T09:04:37.671Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T09:04:37.671Z"
+  }
+},{
+  "_id": {
+    "$oid": "6571f10c5eb90798f0350bd0"
+  },
+  "nombreCliente": "KPMG Sustainability Consulting",
+  "mainContact": "sherrylin1@kpmg.com.tw",
+  "contacto": "Sherry C.H. Lin",
+  "paisCliente": "Taiwan",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2023-12-07T16:21:32.176Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:22:39.748Z"
+  }
+},{
+  "_id": {
+    "$oid": "657718e9769fec83313e3ac6"
+  },
+  "nombreCliente": "BDP Colombia SAS",
+  "mainContact": "daniela.lopez@psabdp.com",
+  "contacto": "Daniela Lopez",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2023-12-11T14:12:57.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T14:12:57.815Z"
+  }
+},{
+  "_id": {
+    "$oid": "657828501b9d3d0f42e698c4"
+  },
+  "nombreCliente": "Universidad Distrital Francisco José de Caldas",
+  "mainContact": "dlnavarrom@udistrital.edu.co",
+  "contacto": "Diana Lucía Navarro Muñoz",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2023-12-12T09:30:56.487Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T09:30:56.487Z"
+  }
+},{
+  "_id": {
+    "$oid": "6578328df29c48ecaab1e44f"
+  },
+  "nombreCliente": "Unicarbo Energia e Biogas Ltda",
+  "mainContact": "nuno@unicarbo.com.br",
+  "contacto": "Nuno Barbosa",
+  "paisCliente": "Brazil",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2023-12-12T10:14:37.261Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:14:37.261Z"
+  }
+},{
+  "_id": {
+    "$oid": "6578342ff29c48ecaab1e479"
+  },
+  "nombreCliente": "TAIWAN CARBON SOLUTION EXCHANGE",
+  "mainContact": "minhua.tsai@tcx.com.tw",
+  "contacto": "Minhua Tsai",
+  "paisCliente": "Taiwan",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "CL-863 ",
+  "createdAt": {
+    "$date": "2023-12-12T10:21:35.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T10:21:35.558Z"
+  }
+},{
+  "_id": {
+    "$oid": "657852635088f1543e53f746"
+  },
+  "nombreCliente": "EDF Renewables Chile",
+  "mainContact": "Yessenia.Reyes@edf-re.cl",
+  "contacto": "Yessenia Reyes",
+  "paisCliente": "Chile",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2023-12-12T12:30:27.532Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-12T12:30:27.532Z"
+  }
+},{
+  "_id": {
+    "$oid": "6579700d0043d482246a00ca"
+  },
+  "nombreCliente": "De Origen LATAM S.A.S",
+  "mainContact": "facundomp@deorigen.bio",
+  "contacto": "Facundo Medrano Pizarro",
+  "paisCliente": "Argentina",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "CL-700",
+  "createdAt": {
+    "$date": "2023-12-13T08:49:17.189Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T09:12:19.442Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a11441949594c354d3d706"
+  },
+  "nombreCliente": "Enerjisa Elektrik Enerjisi",
+  "mainContact": "melih.saricicek@enerjisauretim.com",
+  "contacto": "Melih SARICICEK",
+  "paisCliente": "Turkey",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "CL-868",
+  "createdAt": {
+    "$date": "2024-01-12T10:28:17.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-12T10:28:17.350Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a4f3fabbca4b6745dea334"
+  },
+  "nombreCliente": "INCI HUILA S.A.S E.S.P.",
+  "mainContact": "coordinadorambiental@incihuila.com.co",
+  "contacto": "Diego",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-01-15T08:59:38.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T08:59:38.165Z"
+  }
+},{
+  "_id": {
+    "$oid": "65af7a01f5f731921790fbb0"
+  },
+  "nombreCliente": "Procter & Gamble (P&G)",
+  "mainContact": "cardenas.n.2@pg.com",
+  "contacto": "Natalia Cardenas",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "comentarios": "CL-872 - SAP:1010223",
+  "createdAt": {
+    "$date": "2024-01-23T08:34:09.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T08:34:09.644Z"
+  }
+},{
+  "_id": {
+    "$oid": "65b7ba4106ae4a12d4cf28e7"
+  },
+  "nombreCliente": "ENTERTECH LABS PVT LTD",
+  "mainContact": "",
+  "contacto": "",
+  "paisCliente": "Pakistan",
+  "tipoCliente": "Consulting",
+  "division": "BD",
+  "comentarios": "cadena: Legal and financial experts - PEDO proposal - Sap:1010220 - CL-874",
+  "createdAt": {
+    "$date": "2024-01-29T14:46:25.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T14:46:25.155Z"
+  }
+},{
+  "_id": {
+    "$oid": "65c0a8888e8adc981bb9a8d1"
+  },
+  "nombreCliente": "VC4 Climate",
+  "mainContact": "c.borghi@vc4climate.com",
+  "contacto": "Christopher Borghi",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Consulting",
+  "division": "Corporate",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-02-05T09:21:12.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T09:21:12.063Z"
+  }
+},{
+  "_id": {
+    "$oid": "65ca35ec8f81ac2d8bd1ce7e"
+  },
+  "nombreCliente": "Marex Group",
+  "mainContact": "",
+  "contacto": "Scott Thomson ",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-02-12T15:14:52.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-12T15:14:52.823Z"
+  }
+},{
+  "_id": {
+    "$oid": "65ca36eb8f81ac2d8bd1ce83"
+  },
+  "nombreCliente": "SEFE Marketing and Trading Limited",
+  "mainContact": "veronika.gius@sefe-mt.com",
+  "contacto": "Veronika Gius",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-02-12T15:19:07.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-12T15:19:07.372Z"
+  }
+},{
+  "_id": {
+    "$oid": "65e9d04e1ace25bc42d6a99c"
+  },
+  "nombreCliente": "Besalco",
+  "mainContact": "paulina.kellenberger@besalco.cl",
+  "contacto": "Paulina Denise Kellenberger Ilabaca",
+  "paisCliente": "Chile",
+  "tipoCliente": "Project Owner",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-03-07T14:33:50.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-07T14:33:50.453Z"
+  }
+},{
+  "_id": {
+    "$oid": "65f83469d40158c0e07607f1"
+  },
+  "nombreCliente": "Coremar",
+  "mainContact": "kmanjarrez@coremar.com",
+  "contacto": "Kevin Andres Manjarres",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-03-18T12:32:41.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T12:32:41.691Z"
+  }
+},{
+  "_id": {
+    "$oid": "6602851c2351945b117c8097"
+  },
+  "nombreCliente": "NeutralX",
+  "mainContact": "farouq@neutralx.com",
+  "contacto": "Farouq Ghandour",
+  "paisCliente": "United States",
+  "tipoCliente": "Plataform",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-03-26T08:19:40.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T11:06:31.915Z"
+  }
+},{
+  "_id": {
+    "$oid": "660bb634e2fdfcb86644835d"
+  },
+  "nombreCliente": "GREENIPATH AG",
+  "mainContact": "o.akcasoy@greenipath.com",
+  "contacto": "Ozgur Akcasoy",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-04-02T07:39:32.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T07:39:32.841Z"
+  }
+},{
+  "_id": {
+    "$oid": "66139d0cb452bc1080829442"
+  },
+  "nombreCliente": "Net Zero Holdings Group",
+  "mainContact": "kidd.lee@net0holdingsgroup.com",
+  "contacto": "Kidd Sanghun Lee",
+  "paisCliente": "South Korea",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "Republic of Korea / Howard Heewon Park: phw007@gmail.com",
+  "createdAt": {
+    "$date": "2024-04-08T07:30:20.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T12:56:45.241Z"
+  }
+},{
+  "_id": {
+    "$oid": "662a5bf58a04a82270a8cc6f"
+  },
+  "nombreCliente": "Rimorchiatori Riuniti Colombia SAS",
+  "mainContact": "sandra.leiro@rimorchiatori.com",
+  "contacto": "Sandra Leiro Monroy",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Lead - No Causaciòn y Compensaciòn Voluntaria",
+  "createdAt": {
+    "$date": "2024-04-25T13:34:45.212Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T13:34:45.212Z"
+  }
+},{
+  "_id": {
+    "$oid": "662a7cc2c6a92d7e6ec0ca3e"
+  },
+  "nombreCliente": "Transportes Iceberg De Colombia",
+  "mainContact": "diana.romero@iceberg.com.co",
+  "contacto": "Diana Carolina Romero Toro",
+  "paisCliente": "",
+  "tipoCliente": "",
+  "division": "",
+  "comentarios": "No causation y Potencial Consultoria",
+  "createdAt": {
+    "$date": "2024-04-25T15:54:42.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T15:54:42.988Z"
+  }
+},{
+  "_id": {
+    "$oid": "6630aa8dc135774a5099786c"
+  },
+  "nombreCliente": "ALLCOT Group",
+  "mainContact": "mdo@allcot.com",
+  "contacto": "Monica",
+  "paisCliente": "Switzerland",
+  "tipoCliente": "Final",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-04-30T08:23:41.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T08:23:41.070Z"
+  }
+},{
+  "_id": {
+    "$oid": "6643a6e0febcfe5f0977d17d"
+  },
+  "nombreCliente": "Ecotierra",
+  "mainContact": "l.salgado@ecotierra.co",
+  "contacto": "Luis Salgado",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Cliente Final Cancelaciòn, Atravez de Intermediario Ecotierra",
+  "createdAt": {
+    "$date": "2024-05-14T18:01:04.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T18:01:04.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "6644aee5fbdc87b5326373a7"
+  },
+  "nombreCliente": "Cotranscol",
+  "mainContact": "ana.rojas@colgas.com",
+  "contacto": "Ana Rojas ",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "No Causaciòn del Impuesto al Carbono Colombia",
+  "createdAt": {
+    "$date": "2024-05-15T12:47:33.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T12:47:33.615Z"
+  }
+},{
+  "_id": {
+    "$oid": "6644b4766f62ec9bdcb34070"
+  },
+  "nombreCliente": "Bosch Colombia",
+  "mainContact": "tulio.takao@br.bosch.com",
+  "contacto": "Tulio Takao",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Cliente Colombia. HQ Brazil. ",
+  "createdAt": {
+    "$date": "2024-05-15T13:11:18.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T13:11:18.304Z"
+  }
+},{
+  "_id": {
+    "$oid": "6646196e715ee407ddebd99c"
+  },
+  "nombreCliente": "EuroFarma",
+  "mainContact": "nadia.vanegas@eurofarma.com",
+  "contacto": "Nadia Vanegas",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Irec's pedido para alcnace 2 . compensa con carbono alcance 1",
+  "createdAt": {
+    "$date": "2024-05-16T14:34:22.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T14:34:22.449Z"
+  }
+},{
+  "_id": {
+    "$oid": "66463dc14736e875da19336e"
+  },
+  "nombreCliente": "Koch Commodities Europe Limited",
+  "mainContact": "",
+  "contacto": "",
+  "paisCliente": "United Kingdom",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-05-16T17:09:21.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T17:09:21.738Z"
+  }
+},{
+  "_id": {
+    "$oid": "664673e2166b9c36a8575fb0"
+  },
+  "nombreCliente": "Colgas",
+  "mainContact": "ana.rojas@colgas.com",
+  "contacto": "Ana Sofia Rojas Carpio",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Impuesto al carbono Col ",
+  "createdAt": {
+    "$date": "2024-05-16T21:00:18.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T21:00:18.749Z"
+  }
+},{
+  "_id": {
+    "$oid": "66570968c162c2079a761c58"
+  },
+  "nombreCliente": "Petrobras Colombia Combustibles S.A",
+  "mainContact": "",
+  "contacto": "",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-05-29T10:54:32.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T10:54:32.770Z"
+  }
+},{
+  "_id": {
+    "$oid": "66632258ac647a3131dedcfe"
+  },
+  "nombreCliente": "Compañía Envasadora del Atlántico S.A.S",
+  "mainContact": "karla.montes@cea.com.co",
+  "contacto": "Karla Montes",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Trading",
+  "division": "Corporate",
+  "comentarios": "Sin onboarding.",
+  "createdAt": {
+    "$date": "2024-06-07T15:08:08.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-07T15:08:08.461Z"
+  }
+},{
+  "_id": {
+    "$oid": "6679b6ceef515a508510a254"
+  },
+  "nombreCliente": "Petrotech",
+  "mainContact": "dleon@petrotech.com.co",
+  "contacto": "Diana Leon",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Compensación Voluntaria",
+  "createdAt": {
+    "$date": "2024-06-24T18:11:26.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-24T18:11:26.153Z"
+  }
+},{
+  "_id": {
+    "$oid": "668425d0ea9ca2be7a637565"
+  },
+  "nombreCliente": "Reforestum",
+  "mainContact": "diego@reforestum.com",
+  "contacto": "Diego Sainz",
+  "paisCliente": "Spain",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-07-02T16:07:44.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T16:07:44.543Z"
+  }
+},{
+  "_id": {
+    "$oid": "669ebefc8e61e84c214776af"
+  },
+  "nombreCliente": "Experian",
+  "mainContact": "carlos.agarcia@experian.com",
+  "contacto": "Carlos Garcia",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Venta de Irecs Colombia",
+  "createdAt": {
+    "$date": "2024-07-22T20:20:12.308Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T20:20:12.308Z"
+  }
+},{
+  "_id": {
+    "$oid": "66a0ec37c82add68f74aee20"
+  },
+  "nombreCliente": "Valores Global Pte Ltd",
+  "mainContact": "eve@valoresglobal.com ",
+  "contacto": "",
+  "paisCliente": "Singapore",
+  "tipoCliente": "Broker",
+  "division": "Trading",
+  "comentarios": "CL-948",
+  "createdAt": {
+    "$date": "2024-07-24T11:57:43.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T11:57:43.332Z"
+  }
+},{
+  "_id": {
+    "$oid": "66b9c404677d885ae353eb7d"
+  },
+  "nombreCliente": "ONF Andina",
+  "mainContact": "jpuentes@onfandina.com",
+  "contacto": "",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Project Owner",
+  "division": "Sourcing",
+  "comentarios": "CL-793",
+  "createdAt": {
+    "$date": "2024-08-12T08:12:52.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:12:52.138Z"
+  }
+},{
+  "_id": {
+    "$oid": "66ba6d4247d120f75f6ef596"
+  },
+  "nombreCliente": "ECOLAB",
+  "mainContact": "asesorarlecolab@gmail.com",
+  "contacto": "Olga Sanchez",
+  "paisCliente": "Colombia",
+  "tipoCliente": "Final",
+  "division": "Corporate",
+  "comentarios": "Cliente Final Creditos Voluntario",
+  "createdAt": {
+    "$date": "2024-08-12T20:14:58.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T20:14:58.809Z"
+  }
+},{
+  "_id": {
+    "$oid": "66bf0d80f5722afe07835350"
+  },
+  "nombreCliente": "VALORES GLOBAL",
+  "mainContact": "eve@valoresglobal.com",
+  "contacto": "Eve ",
+  "paisCliente": "Singapore",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-08-16T08:27:44.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T08:27:44.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "66d5b3ef3cc11c2e06101e25"
+  },
+  "nombreCliente": "Ener Bank Group",
+  "mainContact": "Mourad@enerbankgroup.com",
+  "contacto": "Mourad",
+  "paisCliente": "United States",
+  "tipoCliente": "Trading",
+  "division": "Trading",
+  "comentarios": "",
+  "createdAt": {
+    "$date": "2024-09-02T12:47:43.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T12:47:43.031Z"
+  }
+}]
