@@ -27,4 +27,6 @@ export const authConfig = {
       },
     }),
   ],
+  secret: process.env.SECRET // To be added
+
 } satisfies NextAuthConfig;
