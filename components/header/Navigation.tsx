@@ -60,7 +60,7 @@ export default function Navigation() {
           {Object.entries(navigation)?.map(([key, value], index) => (
             <NavigationMenuItem key={index} >
               <Link href={value} legacyBehavior passHref >
-                <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), pathname === value ? 'bg-green-300 dark:bg-green-800 text-green-950 dark:text-green-50' : '')}>
+                <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), pathname.includes(value) ? 'bg-green-300 dark:bg-green-800 text-green-950 dark:text-green-50' : '')}>
                   {t(key)}
                 </NavigationMenuLink>
               </Link>

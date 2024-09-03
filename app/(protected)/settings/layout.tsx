@@ -1,4 +1,4 @@
-import { NavbarSettings } from "../profile/_components/navbar-settings";
+import { NavbarSettings } from "./_components/navbar-settings";
 
 
 interface ProtectedLayoutProps {
@@ -7,7 +7,7 @@ interface ProtectedLayoutProps {
 
 const ProtectedLayout = ({children}: ProtectedLayoutProps) => {
     return (
-        <div className="h-full w-full flex flex-col gap-y-10 items-center justify-center bg-background">
+        <div className="h-full w-full flex flex-col gap-y-10 mt-6 items-center justify-center">
             <NavbarSettings/>
             {children}
         </div>
