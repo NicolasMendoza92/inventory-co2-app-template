@@ -30,7 +30,8 @@ const buttonVariants = cva(
           'border border-input dark:border-green-950 bg-green-200 dark:bg-green-950 hover:bg-accent dark:hover:bg-green-700/50 hover:text-accent-foreground text-black',
         secondary:
           'bg-secondary text-secondary-foreground hover:bg-secondary/80',
-        ghost: 'hover:bg-accent hover:text-accent-foreground dark:hover:bg-green-700/50',
+        ghost:
+          'hover:bg-accent hover:text-accent-foreground dark:hover:bg-green-700/50',
         link: 'text-primary underline-offset-4 hover:underline'
       },
       size: {
@@ -85,13 +86,15 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
         {...props}
       >
         {props.icon && <Icon type={props.icon} />}
-        <p
-          className={`${props.hidden && 'hidden'} md:inline-flex ${
-            props.children && 'md:ml-2 lg:ml-2'
-          } lg:inline-flex  md:text-sm lg:text-ml text-green-950 dark:text-green-50`}
-        >
-          {props.children}
-        </p>
+        {props.children && (
+          <p
+            className={`${props.hidden && 'hidden'} md:inline-flex ${
+              props.children && 'md:ml-2 lg:ml-2'
+            } lg:inline-flex  md:text-sm lg:text-ml text-green-950 dark:text-green-50`}
+          >
+            {props.children}
+          </p>
+        )}
       </Comp>
     )
   }
