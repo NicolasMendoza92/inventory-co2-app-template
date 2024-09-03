@@ -1,16 +1,12 @@
 'use client'
 
-import React, { useState, useCallback } from 'react'
-import { DndProvider, useDrag, useDrop } from 'react-dnd'
-import { HTML5Backend } from 'react-dnd-html5-backend'
 import { Button } from '@/components/ui/button'
 import { Checkbox } from '@/components/ui/checkbox'
 import {
   Dialog,
   DialogContent,
   DialogHeader,
-  DialogTitle,
-  DialogTrigger
+  DialogTitle
 } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
@@ -22,18 +18,19 @@ import {
   SelectTrigger,
   SelectValue
 } from '@/components/ui/select'
+import { useLanguage } from '@/hooks/LanguageProvider'
 import {
   GripVertical,
-  SettingsIcon,
-  XIcon,
+  MoveLeft,
   Pencil,
   Save,
-  Backpack,
-  ArrowBigLeftDashIcon,
-  MoveLeft
+  SettingsIcon,
+  XIcon
 } from 'lucide-react'
-import { useLanguage } from '@/hooks/LanguageProvider'
 import Link from 'next/link'
+import React, { useCallback, useState } from 'react'
+import { DndProvider, useDrag, useDrop } from 'react-dnd'
+import { HTML5Backend } from 'react-dnd-html5-backend'
 
 export type InputType = 'text' | 'number' | 'date' | 'checkbox' | 'select'
 export type InputWidth = '25' | '50' | '75' | '100'
@@ -60,7 +57,7 @@ export const InputComponent: React.FC<{
           type={field.type}
           value={value}
           onChange={(e) => onChange(e.target.value)}
-          className="w-full"
+          className="w-full dark:border-gray-50 dark:text-gray-50"
         />
       )
     case 'checkbox':
@@ -150,7 +147,7 @@ const DraggableField: React.FC<DraggableFieldProps> = ({
       ref={(node) => {
         drag(drop(node))
       }}
-      className={`bg-card p-4 rounded-lg shadow ${calculateWidth(
+      className={`bg-green-100 dark:bg-gray-950/50 p-4 rounded-lg shadow ${calculateWidth(
         field.width
       )} mb-4 ${isDragging ? 'opacity-50' : ''} ${
         isEditing ? 'cursor-move' : ''
@@ -176,7 +173,7 @@ const DraggableField: React.FC<DraggableFieldProps> = ({
           </div>
         )}
       </div>
-      <InputComponent field={field} value={value} onChange={onChange} />
+      <InputComponent field={field} value={value} onChange={onChange}/>
     </div>
   )
 }
@@ -311,7 +308,7 @@ export default function Component() {
           </Button>
         </div>
         {isEditing && (
-          <div className="mb-4 p-4 bg-card rounded-lg">
+          <div className="mb-4 p-4 bg-transparent rounded-lg">
             <h2 className="text-lg font-semibold mb-2">Agregar nuevo campo</h2>
             <div className="flex space-x-4">
               <Select
@@ -355,7 +352,9 @@ export default function Component() {
                   </div>
                 </div>
               </RadioGroup>
-              <Button onClick={addField}>Agregar Campo</Button>
+              <Button variant="outline" onClick={addField}>
+                Agregar Campo
+              </Button>
             </div>
           </div>
         )}
