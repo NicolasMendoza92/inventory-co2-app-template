@@ -9,8 +9,10 @@ import {
 } from '@/components/ui/navigation-menu'
 import { navigation } from '@/contants/navigation'
 import { useLanguage } from '@/hooks/LanguageProvider'
+import { cn } from '@/lib/utils'
 import { Menu } from 'lucide-react'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { useState } from 'react'
 
 const MobileMenu = () => {
@@ -49,14 +51,16 @@ const MobileMenu = () => {
 
 export default function Navigation() {
   const { t } = useLanguage()
+  const pathname = usePathname()
+
   return (
     <>
       <NavigationMenu className="hidden md:flex">
         <NavigationMenuList>
           {Object.entries(navigation)?.map(([key, value], index) => (
-            <NavigationMenuItem key={index}>
-              <Link href={value} legacyBehavior passHref>
-                <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+            <NavigationMenuItem key={index} >
+              <Link href={value} legacyBehavior passHref >
+                <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), pathname === value ? 'bg-green-300 dark:bg-green-800 text-green-950 dark:text-green-50' : '')}>
                   {t(key)}
                 </NavigationMenuLink>
               </Link>

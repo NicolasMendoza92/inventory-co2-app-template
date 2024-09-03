@@ -1,169 +1,107 @@
-[{
-  "_id": {
-    "$oid": "6691494808a4ba1758e3d8f4"
+[
+  {
+    "id": "6691494808a4ba1758e3d8f4",
+    "team": "Trading",
+    "reserveOwn": "Helibeth",
+    "customer": "Climate Trade SL",
+    "projectRelated": "658328f0ccdb650e66721b08",
+    "price": 4.78,
+    "quantity": 200,
+    "status": "Underway",
+    "expiration": "2024-09-30T00:00:00Z",
+    "comments": "",
+    "createdAt": "2024-07-12T15:18:32.843Z",
+    "updatedAt": "2024-07-12T15:18:32.843Z",
+    "v": 0
   },
-  "team": "Trading",
-  "reserveOwn": "Helibeth",
-  "customer": "Climate Trade SL",
-  "projectRelated": {
-    "$oid": "658328f0ccdb650e66721b08"
+  {
+    "id": "66955b5728814d3f1002b535",
+    "team": "Trading",
+    "reserveOwn": "Helibeth",
+    "customer": "Climate Trade SL",
+    "projectRelated": "656da54e88f61042ee9b74dc",
+    "price": 0.94,
+    "quantity": 6078,
+    "status": "Underway",
+    "expiration": "2024-09-20T00:00:00Z",
+    "comments": "",
+    "createdAt": "2024-07-15T17:24:39.528Z",
+    "updatedAt": "2024-07-15T17:24:39.528Z",
+    "v": 0
   },
-  "price": 4.78,
-  "quantity": 200,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-30T00:00:00Z"
+  {
+    "id": "66955b9bf7d2f4c234de0b6b",
+    "team": "Trading",
+    "reserveOwn": "Helibeth",
+    "customer": "Climate Trade SL",
+    "projectRelated": "65842abf40382f01c7cf8b67",
+    "price": 5.33,
+    "quantity": 60,
+    "status": "Underway",
+    "expiration": "2024-09-20T00:00:00Z",
+    "comments": "",
+    "createdAt": "2024-07-15T17:25:47.868Z",
+    "updatedAt": "2024-07-15T17:25:47.868Z",
+    "v": 0
   },
-  "comments": "",
-  "createdAt": {
-    "$date": "2024-07-12T15:18:32.843Z"
+  {
+    "id": "66955bfbf7d2f4c234de0b77",
+    "team": "Trading",
+    "reserveOwn": "Helibeth",
+    "customer": "Climate Trade SL",
+    "projectRelated": "656f560e2661908a420cab27",
+    "price": 5.78,
+    "quantity": 15000,
+    "status": "Underway",
+    "expiration": "2024-09-20T00:00:00Z",
+    "comments": "",
+    "createdAt": "2024-07-15T17:27:23.303Z",
+    "updatedAt": "2024-07-15T17:27:23.303Z",
+    "v": 0
   },
-  "updatedAt": {
-    "$date": "2024-07-12T15:18:32.843Z"
+  {
+    "id": "66a0c8eaa4b0731eb84576fd",
+    "team": "Trading",
+    "reserveOwn": "Nicolas",
+    "customer": "NeutralX",
+    "projectRelated": "656f560e2661908a420cab27",
+    "price": 2.61,
+    "quantity": 11000,
+    "status": "Underway",
+    "expiration": "2024-09-05T00:00:00Z",
+    "comments": "Transaccion por plataforma",
+    "createdAt": "2024-07-24T09:27:06.073Z",
+    "updatedAt": "2024-08-26T14:36:40.794Z",
+    "v": 0
   },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "66955b5728814d3f1002b535"
+  {
+    "id": "66a0c931a4b0731eb8457709",
+    "team": "Trading",
+    "reserveOwn": "Nicolas",
+    "customer": "NeutralX",
+    "projectRelated": "65cf2c82e54af3c7eb4afd57",
+    "price": 3.07,
+    "quantity": 10000,
+    "status": "Underway",
+    "expiration": "2024-09-05T00:00:00Z",
+    "comments": "Transaccion por plataforma",
+    "createdAt": "2024-07-24T09:28:17.986Z",
+    "updatedAt": "2024-08-26T14:36:32.448Z",
+    "v": 0
   },
-  "team": "Trading",
-  "reserveOwn": "Helibeth",
-  "customer": "Climate Trade SL",
-  "projectRelated": {
-    "$oid": "656da54e88f61042ee9b74dc"
-  },
-  "price": 0.94,
-  "quantity": 6078,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-20T00:00:00Z"
-  },
-  "comments": "",
-  "createdAt": {
-    "$date": "2024-07-15T17:24:39.528Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-15T17:24:39.528Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "66955b9bf7d2f4c234de0b6b"
-  },
-  "team": "Trading",
-  "reserveOwn": "Helibeth",
-  "customer": "Climate Trade SL",
-  "projectRelated": {
-    "$oid": "65842abf40382f01c7cf8b67"
-  },
-  "price": 5.33,
-  "quantity": 60,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-20T00:00:00Z"
-  },
-  "comments": "",
-  "createdAt": {
-    "$date": "2024-07-15T17:25:47.868Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-15T17:25:47.868Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "66955bfbf7d2f4c234de0b77"
-  },
-  "team": "Trading",
-  "reserveOwn": "Helibeth",
-  "customer": "Climate Trade SL",
-  "projectRelated": {
-    "$oid": "656f560e2661908a420cab27"
-  },
-  "price": 5.78,
-  "quantity": 15000,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-20T00:00:00Z"
-  },
-  "comments": "",
-  "createdAt": {
-    "$date": "2024-07-15T17:27:23.303Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-15T17:27:23.303Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "66a0c8eaa4b0731eb84576fd"
-  },
-  "team": "Trading",
-  "reserveOwn": "Nicolas",
-  "customer": "NeutralX",
-  "projectRelated": {
-    "$oid": "656f560e2661908a420cab27"
-  },
-  "price": 2.61,
-  "quantity": 11000,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-05T00:00:00Z"
-  },
-  "comments": "Transaccion por plataforma ",
-  "createdAt": {
-    "$date": "2024-07-24T09:27:06.073Z"
-  },
-  "updatedAt": {
-    "$date": "2024-08-26T14:36:40.794Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "66a0c931a4b0731eb8457709"
-  },
-  "team": "Trading",
-  "reserveOwn": "Nicolas",
-  "customer": "NeutralX",
-  "projectRelated": {
-    "$oid": "65cf2c82e54af3c7eb4afd57"
-  },
-  "price": 3.07,
-  "quantity": 10000,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-05T00:00:00Z"
-  },
-  "comments": "Transaccion por plataforma ",
-  "createdAt": {
-    "$date": "2024-07-24T09:28:17.986Z"
-  },
-  "updatedAt": {
-    "$date": "2024-08-26T14:36:32.448Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "66d5b44d63daea3357495cb9"
-  },
-  "team": "Trading",
-  "reserveOwn": "Helibeth",
-  "customer": "Ener Bank Group",
-  "projectRelated": {
-    "$oid": "6628cd6a036238ba04b09851"
-  },
-  "price": 2,
-  "quantity": 244,
-  "status": "Underway",
-  "expiration": {
-    "$date": "2024-09-04T00:00:00Z"
-  },
-  "comments": "",
-  "createdAt": {
-    "$date": "2024-09-02T12:49:17.905Z"
-  },
-  "updatedAt": {
-    "$date": "2024-09-02T13:13:56.171Z"
-  },
-  "__v": 0
-}]
+  {
+    "id": "66d5b44d63daea3357495cb9",
+    "team": "Trading",
+    "reserveOwn": "Helibeth",
+    "customer": "Ener Bank Group",
+    "projectRelated": "6628cd6a036238ba04b09851",
+    "price": 2,
+    "quantity": 244,
+    "status": "Underway",
+    "expiration": "2024-09-04T00:00:00Z",
+    "comments": "",
+    "createdAt": "2024-09-02T12:49:17.905Z",
+    "updatedAt": "2024-09-02T13:13:56.171Z",
+    "v": 0
+  }
+]

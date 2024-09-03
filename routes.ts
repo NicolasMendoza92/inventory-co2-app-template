@@ -2,7 +2,7 @@
 // Rutas que no necestian authentication
 export const publicRoutes = [
     "/",
-    "/auth/new-verification"
+    "/auth/new-verification",
 ];
 
 // Rutas que redireccionan a los usuarios

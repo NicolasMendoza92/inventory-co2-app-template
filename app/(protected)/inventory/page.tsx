@@ -1,20 +1,38 @@
+'use client'
 import Table from '@/components/table'
-import MobileTable from '@/components/table/mobileTable'
+import data from '@/json-data/projects.json'
+import { getColumns, projectKeys } from '@/utils/table'
 
 type InventoryProps = {
   searchParams: { standard: string }
 }
 
+const hiddenColumns: string[] = [
+  'sdg',
+  'sdgSelected',
+  'sdgImages',
+  'projectLink',
+  'notes',
+  'files',
+  'createdAt',
+  'updatedAt',
+  'extraNotes',
+  'rpEndDate',
+  'rpStartDate',
+  'sectorTD',
+]
+
 export default function Inventory({ searchParams }: InventoryProps) {
+  const columns = getColumns(data, projectKeys)
   const { standard } = searchParams
   return (
-    <div>
-      <div className='hidden md:flex lg:flex'>
-        <Table standard={standard} />
-      </div>
-      <div className='flex md:hidden lg:hidden'>
-        <MobileTable standard={standard} />
-      </div>
-    </div>
+    <Table
+      initialValue={standard}
+      initialKey="standard"
+      data={data}
+      columns={columns}
+      hiddenColumns={hiddenColumns}
+      origin="inventory"
+    />
   )
 }

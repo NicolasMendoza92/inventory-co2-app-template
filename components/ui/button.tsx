@@ -4,6 +4,7 @@ import { cva, type VariantProps } from 'class-variance-authority'
 
 import { cn } from '@/lib/utils'
 import {
+  ArrowUpDown,
   Calendar,
   ChevronDown,
   ChevronRight,
@@ -26,10 +27,10 @@ const buttonVariants = cva(
         destructive:
           'bg-destructive text-destructive-foreground hover:bg-destructive/90',
         outline:
-          'border border-input bg-background hover:bg-accent hover:text-accent-foreground text-black',
+          'border border-input dark:border-green-950 bg-green-200 dark:bg-green-950 hover:bg-accent dark:hover:bg-green-700/50 hover:text-accent-foreground text-black',
         secondary:
           'bg-secondary text-secondary-foreground hover:bg-secondary/80',
-        ghost: 'hover:bg-accent hover:text-accent-foreground',
+        ghost: 'hover:bg-accent hover:text-accent-foreground dark:hover:bg-green-700/50',
         link: 'text-primary underline-offset-4 hover:underline'
       },
       size: {
@@ -51,7 +52,7 @@ export interface ButtonProps
     VariantProps<typeof buttonVariants> {
   asChild?: boolean
   icon?: string
-  textHidden?: boolean
+  hidden?: boolean
 }
 
 const iconsClassName = 'h-4 w-4 text-green-950 dark:text-green-50'
@@ -68,7 +69,8 @@ const Icon = ({ type }: { type: string }) => {
     globe: <Globe className={iconsClassName} />,
     moon: <Moon className={iconsClassName} />,
     sun: <Sun className={iconsClassName} />,
-    logOut: <LogOut className={iconsClassName} />
+    logOut: <LogOut className={iconsClassName} />,
+    arrowUpDown: <ArrowUpDown className={iconsClassName} />
   }
   return icons[type] || null
 }
@@ -84,7 +86,7 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
       >
         {props.icon && <Icon type={props.icon} />}
         <p
-          className={`${props.textHidden && 'hidden'} md:inline-flex ${
+          className={`${props.hidden && 'hidden'} md:inline-flex ${
             props.children && 'md:ml-2 lg:ml-2'
           } lg:inline-flex  md:text-sm lg:text-ml text-green-950 dark:text-green-50`}
         >

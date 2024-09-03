@@ -134,7 +134,7 @@ export function ProjectDashboard() {
           </CardHeader>
           <CardContent>
             <p className="text-3xl font-bold">0</p>
-            <p className="text-sm text-muted-foreground">
+            <p className="text-sm text-muted-foreground dark:text-green-200">
               belonging to 0 projects.
             </p>
           </CardContent>
@@ -145,7 +145,7 @@ export function ProjectDashboard() {
           </CardHeader>
           <CardContent>
             <p className="text-3xl font-bold">800.000</p>
-            <p className="text-sm text-muted-foreground">
+            <p className="text-sm text-muted-foreground dark:text-green-200">
               belonging to 1 projects.
             </p>
           </CardContent>
@@ -156,7 +156,7 @@ export function ProjectDashboard() {
           </CardHeader>
           <CardContent>
             <p className="text-3xl font-bold">0</p>
-            <p className="text-sm text-muted-foreground">
+            <p className="text-sm text-muted-foreground dark:text-green-200">
               belonging to 0 projects.
             </p>
           </CardContent>
@@ -348,7 +348,7 @@ export function ProjectDashboard() {
 
 export default function DashboardPage() {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-transparent">
       <StandardsOverview />
       <ProjectDashboard />
     </div>

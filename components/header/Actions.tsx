@@ -8,14 +8,14 @@ import {
 } from '@/components/ui/dropdown-menu'
 import { useLanguage } from '@/hooks/LanguageProvider'
 import { useTheme } from '@/hooks/ThemeProvider'
-import { Globe, LogOut, Moon, Sun } from 'lucide-react'
+import { signOut } from 'next-auth/react'
+import Logout from './Logout'
 
 type ActionsProps = {
-  username: string
-  onLogout: () => void
+  username?: string | null
 }
 
-export default function Actions({ username, onLogout }: ActionsProps) {
+export default function Actions({ username }: ActionsProps) {
   const { theme, toggleTheme } = useTheme()
   const { language, setLanguage } = useLanguage()
 
@@ -26,12 +26,11 @@ export default function Actions({ username, onLogout }: ActionsProps) {
           <span className="mr-2">{username}</span>
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
-              <Button variant="ghost" size="icon" icon='logOut'>
-              </Button>
+              <Button variant="ghost" size="icon" icon="logOut"></Button>
             </DropdownMenuTrigger>
             <DropdownMenuContent align="end">
-              <DropdownMenuItem onClick={onLogout}>
-                Cerrar sesión
+              <DropdownMenuItem >
+                <Logout />
               </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
@@ -40,8 +39,7 @@ export default function Actions({ username, onLogout }: ActionsProps) {
 
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
-          <Button variant="ghost" size="icon" icon='globe'>
-          </Button>
+          <Button variant="ghost" size="icon" icon="globe"></Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end">
           <DropdownMenuItem onClick={() => setLanguage('en')}>
@@ -53,8 +51,12 @@ export default function Actions({ username, onLogout }: ActionsProps) {
         </DropdownMenuContent>
       </DropdownMenu>
 
-      <Button onClick={toggleTheme} variant="ghost" size="icon" icon={theme === 'light' ? 'moon': 'sun'}>
-      </Button>
+      <Button
+        onClick={toggleTheme}
+        variant="ghost"
+        size="icon"
+        icon={theme === 'light' ? 'moon' : 'sun'}
+      ></Button>
     </div>
   )
 }
