@@ -10,23 +10,17 @@ export const NavbarSettings = () => {
   const pathname = usePathname();
 
   return (
-    <nav className="flex justify-between items-center p-4 rounded-xl w-[600px] shadow-md">
+    <nav className="flex w-full justify-between items-center p-4 rounded-xl shadow-md md:w-[600px]">
       <div className="flex gap-x-2">
         <Button
-          variant={pathname === "/settings/user" ? "default" : "outline"}
+          variant={pathname === "/profile" ? "default" : "outline"}
         >
-          <Link href="/settings/user">User</Link>
-        </Button>
-        
-        <Button
-          variant={pathname === "/settings/admin" ? "default" : "outline"}
-        >
-          <Link href="/settings/admin">Admin</Link>
+          <Link href="/profile">User</Link>
         </Button>
         <Button
-          variant={pathname === "/settings" ? "default" : "outline"}
+          variant={pathname === "/profile/settings" ? "default" : "outline"}
         >
-          <Link href="/settings">Settings</Link>
+          <Link href="/profile/settings">Settings</Link>
         </Button>
       </div>
 
