@@ -23,7 +23,10 @@ const hiddenColumns: string[] = [
 ]
 
 export default function Inventory({ searchParams }: InventoryProps) {
-  const columns = getColumns(data, projectKeys)
+  const origin = 'inventory'
+  const hasCreationAction = true
+  const hasEditAction = true
+  const columns = getColumns(data, projectKeys, origin, hasCreationAction, hasEditAction)
   const { standard } = searchParams
   return (
     <Table
@@ -32,7 +35,7 @@ export default function Inventory({ searchParams }: InventoryProps) {
       data={data}
       columns={columns}
       hiddenColumns={hiddenColumns}
-      origin="inventory"
+      origin={origin}
     />
   )
 }

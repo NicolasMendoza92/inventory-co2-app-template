@@ -1,6 +1,7 @@
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Column, ColumnDef } from '@tanstack/react-table'
+import Link from 'next/link'
 
 export interface Project {
   id: string
@@ -100,9 +101,41 @@ export type TranslatedKeys = {
   [key: string]: string
 }
 
+const getAddHref = (origin: string, row: { original: IProject }) => {
+  switch (origin) {
+    case 'inventory':
+      return `/operations/new`
+    case 'reserves':
+      return `/reserves/new`
+    case 'operations':
+      return `/operations/${row.original.id}`
+    case 'clients':
+      return `/clients/${row.original.id}`
+    default:
+      return ''
+  }
+}
+const getEditHref = (origin: string, row: { original: IProject }) => {
+  switch (origin) {
+    case 'inventory':
+      return `/inventory/${row.original.id}`
+    case 'reserves':
+      return `/reserves/${row.original.id}`
+    case 'operations':
+      return `/operations/${row.original.id}`
+    case 'clients':
+      return `/clients/${row.original.id}`
+    default:
+      return ''
+  }
+}
+
 export const getColumns = <TData extends IProject>(
   data: TData[],
-  translatedKeys: TranslatedKeys
+  translatedKeys: TranslatedKeys,
+  origin: string,
+  hasCreationAction?: boolean,
+  hasReserveAction?: boolean
 ): ColumnDef<TData>[] => {
   const columnValues = Object.keys(data?.[0])
     .filter((e) => e !== 'id')
@@ -143,9 +176,19 @@ export const getColumns = <TData extends IProject>(
       cell: ({ row }) => {
         return (
           <div className="flex space-x-2">
-            <Button variant="ghost" size="icon" icon="plus"></Button>
-            <Button variant="ghost" size="icon" icon="penSquare"></Button>
-            <Button variant="ghost" size="icon" icon="calendar"></Button>
+            {hasCreationAction && (
+              <Link href={getAddHref(origin, row)} passHref legacyBehavior>
+                <Button variant="ghost" size="icon" icon="plus" />
+              </Link>
+            )}
+            <Link href={getEditHref(origin, row)}>
+              <Button variant="ghost" size="icon" icon="penSquare" />
+            </Link>
+            {hasReserveAction && (
+              <Link href={`/reserves/${row.original.id}`}>
+                <Button variant="ghost" size="icon" icon="calendar"></Button>
+              </Link>
+            )}
           </div>
         )
       }

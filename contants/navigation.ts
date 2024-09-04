@@ -5,5 +5,6 @@ export const navigation = {
     operations: '/operations',
     reserves: '/reserves',
     clients: '/clients',
+    profile: '/profile',
     settings: '/settings',
 }

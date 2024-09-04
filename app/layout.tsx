@@ -7,6 +7,7 @@ import Footer from '@/components/Footer'
 import { auth } from '@/auth'
 import { SessionProvider } from 'next-auth/react'
 import { Toaster } from '@/components/ui/sonner'
+import { ThemeScript } from '@/utils/ThemeScript'
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -21,9 +22,12 @@ export default async function RootLayout({
   const session = await auth()
   return (
     <html lang="en">
+      <head suppressHydrationWarning>
+        <ThemeScript />
+      </head>
       <body className="bg-gradient-to-br from-green-50 to-green-100 dark:bg-gradient-to-br dark:from-gray-900 dark:to-gray-950 dark:text-green-50 transition-colors duration-200">
         <SessionProvider session={session}>
-          <ThemeProvider>
+          <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
             <LanguageProvider>
               <Toaster />
               <div className="flex flex-col min-h-screen">

@@ -7,16 +7,16 @@ import {
   DropdownMenuTrigger
 } from '@/components/ui/dropdown-menu'
 import { useLanguage } from '@/hooks/LanguageProvider'
-import { useTheme } from '@/hooks/ThemeProvider'
 import { signOut } from 'next-auth/react'
 import Logout from './Logout'
+import { useTheme } from 'next-themes'
 
 type ActionsProps = {
   username?: string | null
 }
 
 export default function Actions({ username }: ActionsProps) {
-  const { theme, toggleTheme } = useTheme()
+  const { theme, setTheme } = useTheme()
   const { language, setLanguage } = useLanguage()
 
   return (
@@ -52,7 +52,7 @@ export default function Actions({ username }: ActionsProps) {
       </DropdownMenu>
 
       <Button
-        onClick={toggleTheme}
+        onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}
         variant="ghost"
         size="icon"
         icon={theme === 'light' ? 'moon' : 'sun'}

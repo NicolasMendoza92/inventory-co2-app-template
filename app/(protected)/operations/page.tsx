@@ -8,7 +8,7 @@ type InventoryProps = {
 
 export default function Inventory({ searchParams }: InventoryProps) {
   const { operation } = searchParams
-  const columns = getColumns(data, operationKeys)
+  const columns = getColumns(data, operationKeys, 'operations')
   return (
     <Table
       initialValue={operation}

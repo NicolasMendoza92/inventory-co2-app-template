@@ -1,5 +1,5 @@
 import Form from "@/components/form";
-import data from "@/json-data/projects.json";
+import data from "@/json-data/operations.json";
 import { generateFormFields } from "@/utils/form";
 
 export default function NewProject() {
