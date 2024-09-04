@@ -139,7 +139,12 @@ export const LoginForm = () => {
                       </FormItem>
                     )}
                   />
+                  <Button className='p-0 ' variant="link">
+                  <Link  href="/auth/reset">Forgot password ?</Link>
+                  </Button>
+                  
                 </>
+
               )}
               <FormError message={error} />
               <FormSuccess message={success} />
