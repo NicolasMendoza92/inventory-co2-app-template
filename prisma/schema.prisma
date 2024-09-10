@@ -23,6 +23,8 @@ model User {
   accounts              Account[]
   TwoFactorConfirmation TwoFactorConfirmation?
   isTwoFactorEnabled    Boolean                @default(false)
+  projects              Project[]
+  operations            Operation[]
 
   @@map("users")
 }
@@ -76,8 +78,112 @@ model TwoFactorToken {
 
 model TwoFactorConfirmation {
   id     String @id @default(cuid())
-  userId String 
+  userId String
   user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([userId])
+}
+
+// MODELS TO UPDATE 
+//  Relaciones a crear.. 
+// un usuario puede crear varios proyectos y varias operaciones. (1 user a n (projects y operations))
+// Un proyecto puede tener varias operaciones asociadas. (1 projects - n operation)
+// 1 cliente puede tener asociadas varias operaciones ( 1 -  n)
+//  un cliente puede tener varias reservas (1 - n)
+
+model Project {
+  id            String      @id @default(cuid())
+  creatorUser   User?       @relation(fields: [creatorUserId], references: [id])
+  creatorUserId String? // foreign key
+  team          String?
+  contratType   String?
+  projectID     String
+  standard      String
+  projectName   String
+  vintage       String
+  volume        Int
+  tech          String
+  hostCountry   String
+  continent     String?
+  corsia        String?
+  ccb           String?
+  ccp           String?
+  projectType   String?
+  sdg           String?
+  sdgSelected   String[]
+  sdgImages     String[]
+  mktDate       DateTime?
+  projectOwner  String?
+  sellPrice     Float?
+  sellCorpPrice Float?
+  floorPrice    Float?
+  purchasePrice Float?
+  projectLink   String?
+  availability  String?
+  stock         String?
+  notes         String?
+  files         String[]
+  dynamicFields Json?
+  operations    Operation[] // relacion para que 1 proyecto tiene varias operaciones
+  reserves      Reserve[] // relacion para que 1 proyecto tiene varias reservas
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+}
+
+model Operation {
+  id              String    @id @default(cuid())
+  transactionType String?
+  salesTeam       String?
+  client          Customer? @relation(fields: [clientId], references: [id]) // relacion de muchos a uno con Customer
+  clientId        String? // foreign key
+  project         Project?  @relation(fields: [projectId], references: [id]) // relacion de muchos a uno con Project
+  projectId       String? // foreign key
+  user            User?     @relation(fields: [userId], references: [id]) // Nueva relación muchos a uno con User
+  userId          String? // foreign key
+  sellPrice       Float?
+  purchasePrice   Float?
+  quantity        Int
+  deliveryStatus  String?
+  deliveryDate    DateTime?
+  paymentStatus   String?
+  paymentDate     DateTime?
+  internalNotes   String?
+  files           String[]
+  dynamicFields   Json?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+}
+
+model Reserve {
+  id              String    @id @default(cuid())
+  salesTeam       String?
+  reserveOwner    String
+  client          Customer? @relation(fields: [clientId], references: [id]) // rel de muchos a uno con Customer
+  clientId        String? // foreign key
+  project         Project?  @relation(fields: [projectId], references: [id]) // rel de muchos a uno con Project
+  projectId       String? // foreign key
+  reservePrice    Float?
+  reserveQuantity Int
+  status          String?
+  expirationDate  DateTime?
+  reserveComments String?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+}
+
+model Customer {
+  id              String      @id @default(cuid())
+  customerName    String
+  mainContact     String?
+  emailContact    String?
+  customerCountry String?
+  customerType    String?
+  division        String?
+  comments        String?
+  operations      Operation[] // añado la relacion uno a muchos con Operation
+  reserves        Reserve[] // añado la relacion uno a muchos con Reserve
+  sales           String[]
+  purchases       String[]
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
 }

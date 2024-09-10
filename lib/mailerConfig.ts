@@ -25,7 +25,9 @@ const oAuth2Client = new google.auth.OAuth2(
   };
   
   // Función para crear el transporter de libreria nodemailer
-  export const createTransporter = async () => {
+  export const createTransporter = async (provider: "gmail" | "yahoo" | "outlook" | "custom" = "gmail") => {
+    
+    if(provider === "gmail"){}
     const accessToken = await getAccessToken();
   
     const transporter = nodemailer.createTransport({

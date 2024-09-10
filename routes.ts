@@ -8,7 +8,6 @@ export const publicRoutes = [
 // Rutas que redireccionan a los usuarios
 export const authRoutes = [
     "/auth/login",
-    "/auth/register",
     "/auth/error",
     "/auth/reset",
     "/auth/new-password"

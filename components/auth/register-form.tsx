@@ -52,8 +52,8 @@ export const RegisterForm = () => {
   return (
     <CardWrapper
       headerLabel="Create new account"
-      backButtonLabel="Already have an account?"
-      backButtonHref="/auth/login"
+      backButtonLabel="Back to admin page"
+      backButtonHref="/settings"
     >
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">

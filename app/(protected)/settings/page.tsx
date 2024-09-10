@@ -5,6 +5,7 @@ import { FormSuccess } from "@/components/form-success";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { UserRole } from "@prisma/client";
+import Link from "next/link";
 import { toast } from "sonner";
 
 export default function Settings() {
@@ -44,8 +45,8 @@ export default function Settings() {
           </RoleGate>
           <div className="flex flex-row items-center justify-between rounded-lg border p-3 shadow-md">
             <p className="text-sm font-medium"> Register new user to Inventory </p>
-            <Button onClick={onServerActionClick}>
-              Create new one
+            <Button >
+              <Link href={"/auth/register"}> Create new one</Link>
             </Button>
           </div>
           <div className="flex flex-row items-center justify-between rounded-lg border p-3 shadow-md">

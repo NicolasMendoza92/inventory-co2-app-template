@@ -5,16 +5,13 @@ import { getTwoFactorConfirmationByUserId } from "@/data/two-factor-confirmation
 import { getTwoFactorTokenByEmail } from "@/data/two-factor-token";
 import { getUserByEmail } from "@/data/user";
 import { db } from "@/lib/db";
+import { sendTwoFactorTokenEmail, sendVerificationEmail } from "@/lib/mail";
 import {
   generateTwoFactorToken,
   generateVerificationToken,
 } from "@/lib/tokens";
 import { DEFAULT_LOGIN_REDIRECT } from "@/routes";
 import { LoginSchema } from "@/schemas";
-import {
-  sendTwoFactorTokenEmail,
-  sendVerificationEmail,
-} from "@/services/mail";
 import { AuthError } from "next-auth";
 import { z } from "zod";
 
