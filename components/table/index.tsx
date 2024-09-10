@@ -73,9 +73,6 @@ export default function ImprovedTable<TData>({
     return storedOrder || columns.map(column => column.id as string)
   })
 
-  useEffect(() => {
-    setLocalStorage(`${origin}-columns`, columnOrder)
-  }, [columnOrder])
 
   const reorderedColumns = useMemo(
     () => columnOrder.map(columnId => columns.find(col => col.id === columnId)).filter(Boolean) as ColumnDef<TData>[],
@@ -97,7 +94,9 @@ export default function ImprovedTable<TData>({
         const oldIndex = items.indexOf(active.id as string)
         const newIndex = items.indexOf(over?.id as string)
 
-        return arrayMove(items, oldIndex, newIndex)
+        const newOrder =  arrayMove(items, oldIndex, newIndex)
+        setLocalStorage(`${origin}-columns`, newOrder)
+        return newOrder
       })
     }
   }

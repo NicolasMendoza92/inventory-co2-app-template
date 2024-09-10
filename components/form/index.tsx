@@ -181,6 +181,7 @@ const DraggableField: React.FC<DraggableFieldProps> = ({
 type FormProps = {
   initialFormFields: FormField[]
   initialValues? : Record<string, any>
+  projectId?: string
 }
 
 export default function Form({ initialFormFields, initialValues }: FormProps) {

@@ -104,9 +104,9 @@ export type TranslatedKeys = {
 const getAddHref = (origin: string, row: { original: IProject }) => {
   switch (origin) {
     case 'inventory':
-      return `/operations/new`
+      return `/operations/new?projectId=${row.original.id}`
     case 'reserves':
-      return `/reserves/new`
+      return `/reserves/new?projectId=${row.original.id}`
     case 'operations':
       return `/operations/${row.original.id}`
     case 'clients':
@@ -185,7 +185,7 @@ export const getColumns = <TData extends IProject>(
               <Button variant="ghost" size="icon" icon="penSquare" />
             </Link>
             {hasReserveAction && (
-              <Link href={`/reserves/${row.original.id}`}>
+              <Link href={`/reserves/new?projectId=${row.original.id}`}>
                 <Button variant="ghost" size="icon" icon="calendar"></Button>
               </Link>
             )}
