@@ -2,9 +2,9 @@
 import { getUserByEmail, getUserById } from "@/data/user";
 import { currentUser } from "@/lib/auth";
 import { db } from "@/lib/db";
+import { sendVerificationEmail } from "@/lib/mail";
 import { generateVerificationToken } from "@/lib/tokens";
 import { SettingsSchema } from "@/schemas";
-import { sendVerificationEmail } from "@/services/mail";
 import bcrypt from "bcryptjs";
 import { z } from "zod";
 
